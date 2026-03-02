@@ -1,81 +1,148 @@
-# 🧭 Radical Semantic Compass | 部首语义指南针
+# Semantic Vector-based Analysis of Chinese Character Radicals and Definitions
+### 部首语义指南针：用 NLP 量化汉字部首对字义的影响
 
-> **How much does a Chinese radical shift character meaning?**  
-> An NLP + Classical Chinese study using BGE embeddings & semantic vector analysis.
+> A computational study of how Chinese radicals (部首) systematically shift character semantics in embedding space — combining classical Chinese philology with modern NLP.
+
+---
 
 ## Research Question
 
-In Classical Chinese, characters with the **same phonetic component (声旁)** but **different radicals (部首)** share sound but diverge in meaning. This project quantifies *how much* and *in what direction* the radical pulls character semantics in embedding space.
+In Classical Chinese, **形声字** (phono-semantic compounds) are built from two components: a **phonetic element (声旁)** that hints at pronunciation, and a **radical (部首)** that hints at semantic domain. Characters sharing the same phonetic but carrying different radicals — like 僮 (人部, "youth") and 憧 (心部, "anxious longing") — diverge systematically in meaning.
 
-Example: 僮 (人部, "youth") vs 憧 (心部, "anxious longing") — same phonetic 童, different radical, different semantic territory.
+**This project asks**: how much does swapping a radical shift a character's meaning? Is that shift consistent across phonetic groups? Can we predict where an unknown character would land in semantic space?
 
-## Demo
+---
 
-```
-streamlit run app.py
-```
+## What This Project Does
 
-Interactive features:
--  PCA semantic space with offset arrows
--  Rayleigh test for directional consistency  
--  Offset strength ranking by phonetic group
+**Analysis pipeline** — embeds classical Chinese lexicographic definitions (《说文解字》 + 《汉语大字典》) with BGE, computes pairwise semantic offset vectors between 人部 and 心部 characters sharing the same phonetic, and quantifies directional consistency via Rayleigh test.
+
+**Prediction engine** — given any phonetic + radical combination, predicts the likely semantic territory via vector arithmetic (`anchor_embedding + radical_shift_vector ≈ predicted_embedding`), retrieves the nearest neighbors in the corpus, and calls Qwen Plus to generate a plausible classical Chinese gloss.
+
+**Interactive demo** — Streamlit app with four tabs: semantic space visualization, directional analysis, offset strength ranking, and the live prediction interface.
+
+---
 
 ## Methodology
 
 ```
 《说文解字》+ 《汉语大字典》训诂文本
-        ↓
-   Text Cleaning (regex, first-sentence extraction)
-        ↓
-   BGE-base-zh-v1.5 Embeddings (BAAI)
-        ↓
-   PCA (2D projection)
-        ↓
-   Pairwise Offset Vectors (人部 → 心部)
-        ↓
-   Rayleigh Test + Centroid Analysis
+          │
+          ▼  regex cleaning: first-sentence extraction,
+          │  strip fanqie 反切, phonetic glosses (从X聲),
+          │  strip Duan Yucai 段玉裁 annotations
+          │
+          ▼  BGE-base-zh-v1.5  →  768-dim normalized embeddings
+          │
+          ├──► PCA(2D) ──────────────────────► visualization
+          │
+          ├──► pairwise offset vectors (768-dim)
+          │    vec(心部 char) − vec(人部 char)  →  mean per radical pair
+          │
+          │    evaluated by:
+          │      · inter-vector cosine similarity  (shift consistency)
+          │      · Rayleigh test                   (directional significance)
+          │
+          └──► prediction query
+               ├─ EXACT:     phonetic + radical both in corpus → return directly
+               ├─ PREDICTED: phonetic in corpus, radical not seen with it
+               │             predicted_vec = anchor_vec + shift_vec
+               │             → cosine neighbor search → Qwen Plus gloss
+               └─ INFERRED:  phonetic not in corpus at all
+                             0.6·phonetic_vec + 0.4·radical_centroid
+                             → neighbor search → Qwen Plus gloss
 ```
 
-## Findings (Preliminary)
+### Why vector arithmetic works here
 
-- **Rayleigh R** measures directional consistency of radical "pull" (0=random, 1=uniform direction)
-- Characters with abstract/psychological meaning cluster in 心部 territory
-- Some phonetic groups show minimal semantic shift (radical nearly semantically redundant)
-- Others show dramatic shifts (radical is the primary meaning driver)
+This follows the same principle as the classic `king − man + woman ≈ queen` analogy in word2vec. The mean shift vector from 人部 to 心部 encodes *what 心部 systematically adds relative to 人部* — a direction in 768-dimensional space. Adding this to any 人部 character's embedding projects it toward where a hypothetical 心部 counterpart would plausibly sit.
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-
-# Put your Excel data in data/raw/characters.xlsx
-# Run the full pipeline:
-python run_pipeline.py
-
-# Or step by step:
-python run_pipeline.py --step preprocess
-python run_pipeline.py --step embed        # cached after first run
-python run_pipeline.py --step analyze
-python run_pipeline.py --step visualize
-```
-
-## Data Format
-
-Excel with columns: `PairID | Character | Shuowen | Dazidian | ...`  
-Rows alternate: 人部 character → 心部 character (sharing the same phonetic component).
-
-## Tech Stack
-
-- `sentence-transformers` + `BAAI/bge-base-zh-v1.5` — semantic embeddings  
-- `scikit-learn` (PCA) — dimensionality reduction  
-- `scipy` (Rayleigh test) — directional statistics  
-- `plotly` + `streamlit` — interactive visualization  
-- `adjustText` — label collision avoidance  
-
-## Background
-
-This project combines expertise in **Classical Chinese philology (古文字学)** with modern **NLP methods**. The dataset draws from 《说文解字》 (Shuowen Jiezi, ~100 CE) and 《汉语大字典》 (second edition).
+The central empirical question is whether these shift vectors are *consistent* across phonetic groups — whether 心部 always pulls in the same direction or varies by context. The Rayleigh test mean resultant length R (0 = random scatter, 1 = perfectly uniform) quantifies exactly this.
 
 ---
 
-*Graduate thesis project · Data Science / NLP*
+## Project Structure
+
+```
+radical_semantic_compass/
+│
+├── config.py                 # all paths, model name, palette — edit here only
+├── run_pipeline.py           # one-command runner with --step flag
+├── app.py                    # Streamlit interactive demo
+├── requirements.txt
+│
+└── src/
+    ├── preprocess.py         # Excel → cleaned CSV
+    │                         # auto-parses PairID structure, cleans Shuowen text
+    ├── embed.py              # BGE encoding + PCA + saves embed_index.npz (768-dim)
+    ├── analyze.py            # offset metrics, Rayleigh test, centroid stats, report
+    ├── visualize.py          # scatter plot, polar rose, density map, ranking bar
+    ├── radical_vectors.py    # 768-dim mean shift vectors per radical pair
+    ├── phonetic_index.py     # inverted index: phonetic → radical → characters
+    ├── predict.py            # three-case prediction logic + RadicalPredictor class
+    └── llm_generate.py       # Qwen Plus prompt construction + API call
+```
+
+---
+
+## Data Format
+
+Input is an Excel file with one row per character. Characters sharing a phonetic component are grouped by a shared `PairID`. The two rows in each pair carry different radicals (currently 人部 and 心部).
+
+| PairID | Character | Shuowen | Dazidian | Phonetic |
+|--------|-----------|---------|----------|----------|
+| 1 | 僮 | 未冠也。从人童聲… | 未成年的男子 | 童 |
+| 1 | 憧 | 意不定也。从心童聲… | 意不定 | 童 |
+| 2 | 仞 | 伸臂一尋，八尺… | 古代長度單位… | 刃 |
+| 2 | 忍 | 能也。从心刃聲… | 忍耐；容忍 | 刃 |
+
+**The `Phonetic` column is filled manually** — this is the only required manual annotation step. Automatic phonetic extraction from character forms is too error-prone for classical characters.
+
+Text cleaning is fully automatic: `preprocess.py` extracts only the first clause from each Shuowen entry (the core gloss), stripping fanqie pronunciation notes, phonetic-semantic structural glosses, and Qing dynasty annotations.
+
+
+---
+
+## Key Design Decisions
+
+**768-dim vs 2D for vector arithmetic.** All semantic offset computation happens in the original 768-dimensional BGE space. The 2D PCA projection is used only for visualization — it typically captures only 20–40% of variance, far too lossy for meaningful arithmetic.
+
+**First-sentence extraction for Shuowen.** Shuowen entries follow a strict structural template: the core gloss comes first, followed by phonological analysis, classical quotations, and Qing dynasty critical annotations. Only the first clause is semantically relevant; the rest adds noise to embeddings.
+
+**Embedding caching by text hash.** Re-encoding hundreds of classical Chinese entries with BGE takes several minutes. Cache files are named by MD5 of the input texts — if data hasn't changed, the embedding step is instant on subsequent runs.
+
+**Rayleigh test for shift directionality.** The mean resultant length R measures whether shift vectors cluster in a consistent direction (R → 1) or scatter randomly (R → 0). A significant p-value means the radical has a stable, directional semantic function — which is the central empirical claim of this project and directly quantifiable for the thesis.
+
+---
+
+## Extending to More Radicals
+
+The system generalizes to any number of radicals. To add 水部:
+
+1. Add rows to your Excel with `Radical = 水部` and appropriate `PairID` groupings
+2. Add `"水部": "#2ca02c"` to `RADICAL_PALETTE` in `config.py`
+3. Re-run from `--step embed` onward
+
+Shift vectors for all new radical pairs (人部→水部, 心部→水部, etc.) are computed automatically once there are enough paired examples.
+
+---
+
+## Tech Stack
+
+| Component | Library |
+|-----------|---------|
+| Semantic embeddings | `sentence-transformers` · BAAI/bge-base-zh-v1.5 |
+| Dimensionality reduction | `scikit-learn` PCA |
+| Directional statistics | `scipy` Rayleigh test |
+| LLM generation | Qwen Plus (OpenAI-compatible API) |
+| Interactive visualization | `plotly` + `streamlit` |
+| Static plots | `matplotlib` + `seaborn` |
+| Label layout | `adjustText` |
+
+---
+
+## Background
+
+This project sits at the intersection of **classical Chinese philology (古文字学)** and **computational linguistics**. The dataset draws from 《说文解字》 (Shuowen Jiezi, ~100 CE, the earliest systematic Chinese character lexicon) and the second edition of 《汉语大字典》.
+
+The framing — that radicals encode a directional semantic function measurable as a vector offset — draws on work in distributional semantics on morphological analogies and linguistic feature vectors. The classical philological insight that 形声字 systematically encode meaning through their radical component maps naturally onto this framework.
