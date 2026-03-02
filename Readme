@@ -1,0 +1,81 @@
+# 🧭 Radical Semantic Compass | 部首语义指南针
+
+> **How much does a Chinese radical shift character meaning?**  
+> An NLP + Classical Chinese study using BGE embeddings & semantic vector analysis.
+
+## Research Question
+
+In Classical Chinese, characters with the **same phonetic component (声旁)** but **different radicals (部首)** share sound but diverge in meaning. This project quantifies *how much* and *in what direction* the radical pulls character semantics in embedding space.
+
+Example: 僮 (人部, "youth") vs 憧 (心部, "anxious longing") — same phonetic 童, different radical, different semantic territory.
+
+## Demo
+
+```
+streamlit run app.py
+```
+
+Interactive features:
+-  PCA semantic space with offset arrows
+-  Rayleigh test for directional consistency  
+-  Offset strength ranking by phonetic group
+
+## Methodology
+
+```
+《说文解字》+ 《汉语大字典》训诂文本
+        ↓
+   Text Cleaning (regex, first-sentence extraction)
+        ↓
+   BGE-base-zh-v1.5 Embeddings (BAAI)
+        ↓
+   PCA (2D projection)
+        ↓
+   Pairwise Offset Vectors (人部 → 心部)
+        ↓
+   Rayleigh Test + Centroid Analysis
+```
+
+## Findings (Preliminary)
+
+- **Rayleigh R** measures directional consistency of radical "pull" (0=random, 1=uniform direction)
+- Characters with abstract/psychological meaning cluster in 心部 territory
+- Some phonetic groups show minimal semantic shift (radical nearly semantically redundant)
+- Others show dramatic shifts (radical is the primary meaning driver)
+
+## Setup
+
+```bash
+pip install -r requirements.txt
+
+# Put your Excel data in data/raw/characters.xlsx
+# Run the full pipeline:
+python run_pipeline.py
+
+# Or step by step:
+python run_pipeline.py --step preprocess
+python run_pipeline.py --step embed        # cached after first run
+python run_pipeline.py --step analyze
+python run_pipeline.py --step visualize
+```
+
+## Data Format
+
+Excel with columns: `PairID | Character | Shuowen | Dazidian | ...`  
+Rows alternate: 人部 character → 心部 character (sharing the same phonetic component).
+
+## Tech Stack
+
+- `sentence-transformers` + `BAAI/bge-base-zh-v1.5` — semantic embeddings  
+- `scikit-learn` (PCA) — dimensionality reduction  
+- `scipy` (Rayleigh test) — directional statistics  
+- `plotly` + `streamlit` — interactive visualization  
+- `adjustText` — label collision avoidance  
+
+## Background
+
+This project combines expertise in **Classical Chinese philology (古文字学)** with modern **NLP methods**. The dataset draws from 《说文解字》 (Shuowen Jiezi, ~100 CE) and 《汉语大字典》 (second edition).
+
+---
+
+*Graduate thesis project · Data Science / NLP*
