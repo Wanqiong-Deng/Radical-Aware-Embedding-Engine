@@ -1,0 +1,3736 @@
+{
+  "童": {
+    "人部": [
+      {
+        "character": "僮",
+        "radical": "人部",
+        "phonetic": "童",
+        "group_id": "1.0",
+        "shuowen": "未冠也",
+        "dazidian": "未成年的男子",
+        "combined": "未冠也 未成年的男子",
+        "x": 0.069778144,
+        "y": -0.09426716
+      }
+    ],
+    "心部": [
+      {
+        "character": "憧",
+        "radical": "心部",
+        "phonetic": "童",
+        "group_id": "1.0",
+        "shuowen": "意不定也",
+        "dazidian": "意不定",
+        "combined": "意不定也 意不定",
+        "x": 0.124419935,
+        "y": 0.025313767
+      }
+    ]
+  },
+  "刃": {
+    "人部": [
+      {
+        "character": "仞",
+        "radical": "人部",
+        "phonetic": "刃",
+        "group_id": "2.0",
+        "shuowen": "伸臂一尋，八尺",
+        "dazidian": "古代长度单位，八尺为一仞，一说七尺为一仞，也有以五尺六寸或四尺为一仞的。",
+        "combined": "伸臂一尋，八尺 古代长度单位，八尺为一仞，一说七尺为一仞，也有以五尺六寸或四尺为一仞的。",
+        "x": 0.2695596,
+        "y": -0.24875805
+      },
+      {
+        "character": "仞",
+        "radical": "人部",
+        "phonetic": "刃",
+        "group_id": "61.0",
+        "shuowen": "伸臂一尋八尺",
+        "dazidian": "nan",
+        "combined": "伸臂一尋八尺",
+        "x": 0.11421262,
+        "y": -0.16208382
+      }
+    ],
+    "心部": [
+      {
+        "character": "忍",
+        "radical": "心部",
+        "phonetic": "刃",
+        "group_id": "2.0",
+        "shuowen": "能也",
+        "dazidian": "忍耐",
+        "combined": "能也 忍耐",
+        "x": 0.09399931,
+        "y": 0.03229629
+      }
+    ],
+    "言部": [
+      {
+        "character": "訒",
+        "radical": "言部",
+        "phonetic": "刃",
+        "group_id": "61.0",
+        "shuowen": "頓也",
+        "dazidian": "nan",
+        "combined": "頓也",
+        "x": -0.072868116,
+        "y": 0.07107855
+      }
+    ]
+  },
+  "交": {
+    "人部": [
+      {
+        "character": "佼",
+        "radical": "人部",
+        "phonetic": "交",
+        "group_id": "3.0",
+        "shuowen": "交也",
+        "dazidian": "交往",
+        "combined": "交也 交往",
+        "x": 0.027555833,
+        "y": 0.07498852
+      }
+    ],
+    "心部": [
+      {
+        "character": "恔",
+        "radical": "心部",
+        "phonetic": "交",
+        "group_id": "3.0",
+        "shuowen": "憭也",
+        "dazidian": "聪明",
+        "combined": "憭也 聪明",
+        "x": -0.15277664,
+        "y": -0.222923
+      }
+    ]
+  },
+  "需": {
+    "人部": [
+      {
+        "character": "儒",
+        "radical": "人部",
+        "phonetic": "需",
+        "group_id": "4.0",
+        "shuowen": "柔也",
+        "dazidian": "春秋時從巫、史、祝、卜中分化出来的熟悉詩書禮樂而為貴族服務的人",
+        "combined": "柔也 春秋時從巫、史、祝、卜中分化出来的熟悉詩書禮樂而為貴族服務的人",
+        "x": 0.08481218,
+        "y": -0.096868336
+      }
+    ],
+    "心部": [
+      {
+        "character": "懦",
+        "radical": "心部",
+        "phonetic": "需",
+        "group_id": "4.0",
+        "shuowen": "駑弱者也",
+        "dazidian": "膽小軟弱",
+        "combined": "駑弱者也 膽小軟弱",
+        "x": 0.1301449,
+        "y": -0.16115129
+      }
+    ]
+  },
+  "夋": {
+    "人部": [
+      {
+        "character": "俊",
+        "radical": "人部",
+        "phonetic": "夋",
+        "group_id": "5.0",
+        "shuowen": "材千人也",
+        "dazidian": "才智超群的人",
+        "combined": "材千人也 才智超群的人",
+        "x": 0.07512752,
+        "y": -0.2030117
+      }
+    ],
+    "心部": [
+      {
+        "character": "悛",
+        "radical": "心部",
+        "phonetic": "夋",
+        "group_id": "5.0",
+        "shuowen": "止也",
+        "dazidian": "停止",
+        "combined": "止也 停止",
+        "x": 0.09461116,
+        "y": 0.13581634
+      }
+    ]
+  },
+  "軍": {
+    "人部": [
+      {
+        "character": "㑮",
+        "radical": "人部",
+        "phonetic": "軍",
+        "group_id": "6.0",
+        "shuowen": "人姓",
+        "dazidian": "姓",
+        "combined": "人姓 姓",
+        "x": 0.03915648,
+        "y": -0.032998238
+      }
+    ],
+    "心部": [
+      {
+        "character": "惲",
+        "radical": "心部",
+        "phonetic": "軍",
+        "group_id": "6.0",
+        "shuowen": "重厚也",
+        "dazidian": "敦厚",
+        "combined": "重厚也 敦厚",
+        "x": 0.06593903,
+        "y": -0.07231193
+      }
+    ]
+  },
+  "及": {
+    "人部": [
+      {
+        "character": "伋",
+        "radical": "人部",
+        "phonetic": "及",
+        "group_id": "7.0",
+        "shuowen": "人名",
+        "dazidian": "人名",
+        "combined": "人名 人名",
+        "x": -0.028400077,
+        "y": -0.05140127
+      }
+    ]
+  },
+  "刍": {
+    "心部": [
+      {
+        "character": "急",
+        "radical": "心部",
+        "phonetic": "刍",
+        "group_id": "7.0",
+        "shuowen": "褊也",
+        "dazidian": "狹窄",
+        "combined": "褊也 狹窄",
+        "x": -0.011835461,
+        "y": -0.19738276
+      }
+    ]
+  },
+  "亢": {
+    "人部": [
+      {
+        "character": "伉",
+        "radical": "人部",
+        "phonetic": "亢",
+        "group_id": "8.0",
+        "shuowen": "人名",
+        "dazidian": "人名/匹偶",
+        "combined": "人名 人名/匹偶",
+        "x": 0.00042093432,
+        "y": -0.054936625
+      }
+    ],
+    "心部": [
+      {
+        "character": "忼",
+        "radical": "心部",
+        "phonetic": "亢",
+        "group_id": "8.0",
+        "shuowen": "慨也",
+        "dazidian": "同“慷”",
+        "combined": "慨也 同“慷”",
+        "x": 0.11740977,
+        "y": -0.0499413
+      }
+    ]
+  },
+  "白": {
+    "人部": [
+      {
+        "character": "伯",
+        "radical": "人部",
+        "phonetic": "白",
+        "group_id": "9.0",
+        "shuowen": "長也",
+        "dazidian": "古代統領一方的長官",
+        "combined": "長也 古代統領一方的長官",
+        "x": 0.07852538,
+        "y": -0.07421381
+      },
+      {
+        "character": "伯",
+        "radical": "人部",
+        "phonetic": "白",
+        "group_id": "38.0",
+        "shuowen": "長也",
+        "dazidian": "nan",
+        "combined": "長也",
+        "x": -0.011759958,
+        "y": -0.054282628
+      }
+    ],
+    "心部": [
+      {
+        "character": "怕",
+        "radical": "心部",
+        "phonetic": "白",
+        "group_id": "9.0",
+        "shuowen": "無爲也",
+        "dazidian": "恬淡",
+        "combined": "無爲也 恬淡",
+        "x": 0.089175284,
+        "y": -0.0057213046
+      },
+      {
+        "character": "怕",
+        "radical": "心部",
+        "phonetic": "白",
+        "group_id": "38.0",
+        "shuowen": "無爲也",
+        "dazidian": "nan",
+        "combined": "無爲也",
+        "x": -0.0068633007,
+        "y": 0.05368601
+      }
+    ]
+  },
+  "中": {
+    "人部": [
+      {
+        "character": "仲",
+        "radical": "人部",
+        "phonetic": "中",
+        "group_id": "10.0",
+        "shuowen": "中也",
+        "dazidian": "中",
+        "combined": "中也 中",
+        "x": -0.0975361,
+        "y": 0.07227309
+      }
+    ],
+    "心部": [
+      {
+        "character": "忡",
+        "radical": "心部",
+        "phonetic": "中",
+        "group_id": "10.0",
+        "shuowen": "憂也",
+        "dazidian": "憂愁貌。",
+        "combined": "憂也 憂愁貌。",
+        "x": 0.32719702,
+        "y": 0.032313403
+      }
+    ]
+  },
+  "青": {
+    "人部": [
+      {
+        "character": "倩",
+        "radical": "人部",
+        "phonetic": "青",
+        "group_id": "11.0",
+        "shuowen": "人字",
+        "dazidian": "古時男子的美稱。",
+        "combined": "人字 古時男子的美稱。",
+        "x": 0.13840888,
+        "y": -0.1969883
+      },
+      {
+        "character": "倩",
+        "radical": "人部",
+        "phonetic": "青",
+        "group_id": "104.0",
+        "shuowen": "人美字也",
+        "dazidian": "nan",
+        "combined": "人美字也",
+        "x": -0.00064301095,
+        "y": -0.12568864
+      }
+    ],
+    "心部": [
+      {
+        "character": "情",
+        "radical": "心部",
+        "phonetic": "青",
+        "group_id": "11.0",
+        "shuowen": "人之陰气有欲者",
+        "dazidian": "感情",
+        "combined": "人之陰气有欲者 感情",
+        "x": 0.24907915,
+        "y": -0.05757232
+      }
+    ],
+    "言部": [
+      {
+        "character": "請",
+        "radical": "言部",
+        "phonetic": "青",
+        "group_id": "104.0",
+        "shuowen": "謁也",
+        "dazidian": "nan",
+        "combined": "謁也",
+        "x": -0.03786682,
+        "y": 0.06608609
+      }
+    ]
+  },
+  "睘": {
+    "人部": [
+      {
+        "character": "儇",
+        "radical": "人部",
+        "phonetic": "睘",
+        "group_id": "12.0",
+        "shuowen": "慧也",
+        "dazidian": "輕薄",
+        "combined": "慧也 輕薄",
+        "x": 0.072127424,
+        "y": -0.17143086
+      },
+      {
+        "character": "儇",
+        "radical": "人部",
+        "phonetic": "睘",
+        "group_id": "128.0",
+        "shuowen": "慧也",
+        "dazidian": "nan",
+        "combined": "慧也",
+        "x": -0.012875666,
+        "y": -0.07307367
+      }
+    ],
+    "心部": [
+      {
+        "character": "懁",
+        "radical": "心部",
+        "phonetic": "睘",
+        "group_id": "12.0",
+        "shuowen": "急也",
+        "dazidian": "性急",
+        "combined": "急也 性急",
+        "x": 0.15001798,
+        "y": 0.022694621
+      }
+    ],
+    "言部": [
+      {
+        "character": "譞",
+        "radical": "言部",
+        "phonetic": "睘",
+        "group_id": "128.0",
+        "shuowen": "譞、此複舉字之未刪者",
+        "dazidian": "nan",
+        "combined": "譞、此複舉字之未刪者",
+        "x": 0.022660153,
+        "y": -0.15205565
+      }
+    ]
+  },
+  "炎": {
+    "人部": [
+      {
+        "character": "倓",
+        "radical": "人部",
+        "phonetic": "炎",
+        "group_id": "13.0",
+        "shuowen": "安也",
+        "dazidian": "安然不移",
+        "combined": "安也 安然不移",
+        "x": -0.00043524703,
+        "y": 0.068895124
+      }
+    ],
+    "心部": [
+      {
+        "character": "惔",
+        "radical": "心部",
+        "phonetic": "炎",
+        "group_id": "13.0",
+        "shuowen": "憂也",
+        "dazidian": "火燒",
+        "combined": "憂也 火燒",
+        "x": 0.19761021,
+        "y": 0.07771108
+      }
+    ]
+  },
+  "旬": {
+    "人部": [
+      {
+        "character": "侚",
+        "radical": "人部",
+        "phonetic": "旬",
+        "group_id": "14.0",
+        "shuowen": "疾也",
+        "dazidian": "疾速",
+        "combined": "疾也 疾速",
+        "x": 0.13969816,
+        "y": 0.02482541
+      },
+      {
+        "character": "侚",
+        "radical": "人部",
+        "phonetic": "旬",
+        "group_id": "85.0",
+        "shuowen": "疾也",
+        "dazidian": "nan",
+        "combined": "疾也",
+        "x": 0.10007792,
+        "y": 0.0957458
+      }
+    ],
+    "心部": [
+      {
+        "character": "恂",
+        "radical": "心部",
+        "phonetic": "旬",
+        "group_id": "14.0",
+        "shuowen": "信心也",
+        "dazidian": "誠信",
+        "combined": "信心也 誠信",
+        "x": 0.08171048,
+        "y": 0.009468228
+      }
+    ],
+    "言部": [
+      {
+        "character": "詢",
+        "radical": "言部",
+        "phonetic": "旬",
+        "group_id": "85.0",
+        "shuowen": "謀也",
+        "dazidian": "nan",
+        "combined": "謀也",
+        "x": 0.009661457,
+        "y": 0.05458395
+      }
+    ]
+  },
+  "圭": {
+    "人部": [
+      {
+        "character": "佳",
+        "radical": "人部",
+        "phonetic": "圭",
+        "group_id": "15.0",
+        "shuowen": "善也",
+        "dazidian": "美，好",
+        "combined": "善也 美，好",
+        "x": 0.07043662,
+        "y": -0.03942533
+      },
+      {
+        "character": "佳",
+        "radical": "人部",
+        "phonetic": "圭",
+        "group_id": "81.0",
+        "shuowen": "善也",
+        "dazidian": "nan",
+        "combined": "善也",
+        "x": -0.045929424,
+        "y": 0.041562945
+      }
+    ],
+    "心部": [
+      {
+        "character": "恚",
+        "radical": "心部",
+        "phonetic": "圭",
+        "group_id": "15.0",
+        "shuowen": "恨也",
+        "dazidian": "憤怒，怨恨",
+        "combined": "恨也 憤怒，怨恨",
+        "x": 0.35332546,
+        "y": 0.032770254
+      }
+    ],
+    "言部": [
+      {
+        "character": "詿",
+        "radical": "言部",
+        "phonetic": "圭",
+        "group_id": "81.0",
+        "shuowen": "誤也",
+        "dazidian": "nan",
+        "combined": "誤也",
+        "x": 0.013600378,
+        "y": 0.037912037
+      }
+    ]
+  },
+  "亥": {
+    "人部": [
+      {
+        "character": "侅",
+        "radical": "人部",
+        "phonetic": "亥",
+        "group_id": "16.0",
+        "shuowen": "奇侅，非常也",
+        "dazidian": "非常，特殊",
+        "combined": "奇侅，非常也 非常，特殊",
+        "x": 0.06526143,
+        "y": -0.1997208
+      },
+      {
+        "character": "侅",
+        "radical": "人部",
+        "phonetic": "亥",
+        "group_id": "88.0",
+        "shuowen": "奇侅，非常也",
+        "dazidian": "nan",
+        "combined": "奇侅，非常也",
+        "x": 0.04044594,
+        "y": -0.1847949
+      }
+    ],
+    "心部": [
+      {
+        "character": "㤥",
+        "radical": "心部",
+        "phonetic": "亥",
+        "group_id": "16.0",
+        "shuowen": "苦也",
+        "dazidian": "愁苦",
+        "combined": "苦也 愁苦",
+        "x": 0.1924772,
+        "y": 0.10369063
+      }
+    ],
+    "言部": [
+      {
+        "character": "該",
+        "radical": "言部",
+        "phonetic": "亥",
+        "group_id": "88.0",
+        "shuowen": "軍中約也",
+        "dazidian": "nan",
+        "combined": "軍中約也",
+        "x": 0.05540286,
+        "y": -0.008543047
+      }
+    ]
+  },
+  "尞": {
+    "人部": [
+      {
+        "character": "僚",
+        "radical": "人部",
+        "phonetic": "尞",
+        "group_id": "17.0",
+        "shuowen": "好皃",
+        "dazidian": "美好",
+        "combined": "好皃 美好",
+        "x": 0.041053355,
+        "y": -0.07655368
+      }
+    ],
+    "心部": [
+      {
+        "character": "憭",
+        "radical": "心部",
+        "phonetic": "尞",
+        "group_id": "17.0",
+        "shuowen": "慧也",
+        "dazidian": "聰慧，精明",
+        "combined": "慧也 聰慧，精明",
+        "x": 0.14904436,
+        "y": -0.19547659
+      }
+    ]
+  },
+  "難": {
+    "人部": [
+      {
+        "character": "儺",
+        "radical": "人部",
+        "phonetic": "難",
+        "group_id": "18.0",
+        "shuowen": "行人節也",
+        "dazidian": "行有節度",
+        "combined": "行人節也 行有節度",
+        "x": 0.121428266,
+        "y": -0.0119735
+      }
+    ],
+    "心部": [
+      {
+        "character": "戁",
+        "radical": "心部",
+        "phonetic": "難",
+        "group_id": "18.0",
+        "shuowen": "敬也",
+        "dazidian": "恭敬",
+        "combined": "敬也 恭敬",
+        "x": 0.07588137,
+        "y": 0.09170974
+      }
+    ]
+  },
+  "貴": {
+    "人部": [
+      {
+        "character": "僓",
+        "radical": "人部",
+        "phonetic": "貴",
+        "group_id": "19.0",
+        "shuowen": "嫺也",
+        "dazidian": "嫻雅",
+        "combined": "嫺也 嫻雅",
+        "x": -0.14991169,
+        "y": -0.18876402
+      }
+    ],
+    "心部": [
+      {
+        "character": "憒",
+        "radical": "心部",
+        "phonetic": "貴",
+        "group_id": "19.0",
+        "shuowen": "亂也",
+        "dazidian": "昏亂",
+        "combined": "亂也 昏亂",
+        "x": 0.16194503,
+        "y": -0.051032685
+      }
+    ]
+  },
+  "同": {
+    "人部": [
+      {
+        "character": "侗",
+        "radical": "人部",
+        "phonetic": "同",
+        "group_id": "20.0",
+        "shuowen": "大皃",
+        "dazidian": "長大",
+        "combined": "大皃 長大",
+        "x": 0.022340696,
+        "y": -0.2309733
+      },
+      {
+        "character": "侗",
+        "radical": "人部",
+        "phonetic": "同",
+        "group_id": "90.0",
+        "shuowen": "大皃",
+        "dazidian": "nan",
+        "combined": "大皃",
+        "x": -0.078059144,
+        "y": -0.1978008
+      }
+    ],
+    "心部": [
+      {
+        "character": "恫",
+        "radical": "心部",
+        "phonetic": "同",
+        "group_id": "20.0",
+        "shuowen": "痛也，一曰呻吟也",
+        "dazidian": "哀痛，痛苦",
+        "combined": "痛也，一曰呻吟也 哀痛，痛苦",
+        "x": 0.38507754,
+        "y": 0.097504675
+      }
+    ],
+    "言部": [
+      {
+        "character": "詷",
+        "radical": "言部",
+        "phonetic": "同",
+        "group_id": "90.0",
+        "shuowen": "共也",
+        "dazidian": "nan",
+        "combined": "共也",
+        "x": -0.079945944,
+        "y": 0.08434369
+      }
+    ]
+  },
+  "單": {
+    "人部": [
+      {
+        "character": "僤",
+        "radical": "人部",
+        "phonetic": "單",
+        "group_id": "21.0",
+        "shuowen": "疾也",
+        "dazidian": "疾速",
+        "combined": "疾也 疾速",
+        "x": 0.13969816,
+        "y": 0.02482541
+      }
+    ],
+    "心部": [
+      {
+        "character": "憚",
+        "radical": "心部",
+        "phonetic": "單",
+        "group_id": "21.0",
+        "shuowen": "忌難也，一曰難也",
+        "dazidian": "畏難，畏懼",
+        "combined": "忌難也，一曰難也 畏難，畏懼",
+        "x": 0.4126369,
+        "y": 0.01429234
+      }
+    ]
+  },
+  "參": {
+    "人部": [
+      {
+        "character": "傪",
+        "radical": "人部",
+        "phonetic": "參",
+        "group_id": "22.0",
+        "shuowen": "好皃",
+        "dazidian": "好貌",
+        "combined": "好皃 好貌",
+        "x": -0.008079544,
+        "y": -0.20098715
+      },
+      {
+        "character": "傪",
+        "radical": "人部",
+        "phonetic": "參",
+        "group_id": "117.0",
+        "shuowen": "好皃",
+        "dazidian": "nan",
+        "combined": "好皃",
+        "x": -0.053960517,
+        "y": -0.10745338
+      }
+    ],
+    "心部": [
+      {
+        "character": "慘",
+        "radical": "心部",
+        "phonetic": "參",
+        "group_id": "22.0",
+        "shuowen": "毒也",
+        "dazidian": "狠毒，凶惡",
+        "combined": "毒也 狠毒，凶惡",
+        "x": 0.29780903,
+        "y": -0.07237955
+      }
+    ],
+    "言部": [
+      {
+        "character": "謲",
+        "radical": "言部",
+        "phonetic": "參",
+        "group_id": "117.0",
+        "shuowen": "相怒使也",
+        "dazidian": "nan",
+        "combined": "相怒使也",
+        "x": 0.17197268,
+        "y": 0.021649724
+      }
+    ]
+  },
+  "里": {
+    "人部": [
+      {
+        "character": "俚",
+        "radical": "人部",
+        "phonetic": "里",
+        "group_id": "23.0",
+        "shuowen": "聊也",
+        "dazidian": "聊賴，依託",
+        "combined": "聊也 聊賴，依託",
+        "x": 0.14263755,
+        "y": 0.07017182
+      }
+    ],
+    "心部": [
+      {
+        "character": "悝",
+        "radical": "心部",
+        "phonetic": "里",
+        "group_id": "23.0",
+        "shuowen": "啁也，一曰病也",
+        "dazidian": "嘲笑，詼諧",
+        "combined": "啁也，一曰病也 嘲笑，詼諧",
+        "x": 0.14793122,
+        "y": -0.1112714
+      }
+    ]
+  },
+  "閒": {
+    "人部": [
+      {
+        "character": "僩",
+        "radical": "人部",
+        "phonetic": "閒",
+        "group_id": "24.0",
+        "shuowen": "武皃",
+        "dazidian": "胸襟開闊貌。一說為武勇威嚴貌。",
+        "combined": "武皃 胸襟開闊貌。一說為武勇威嚴貌。",
+        "x": 0.19857989,
+        "y": -0.31253204
+      },
+      {
+        "character": "僩",
+        "radical": "人部",
+        "phonetic": "閒",
+        "group_id": "124.0",
+        "shuowen": "武皃",
+        "dazidian": "nan",
+        "combined": "武皃",
+        "x": -0.061833426,
+        "y": -0.17156413
+      }
+    ],
+    "心部": [
+      {
+        "character": "憪",
+        "radical": "心部",
+        "phonetic": "閒",
+        "group_id": "24.0",
+        "shuowen": "愉也",
+        "dazidian": "愉悅，閒適",
+        "combined": "愉也 愉悅，閒適",
+        "x": 0.14702128,
+        "y": 0.009006057
+      }
+    ],
+    "言部": [
+      {
+        "character": "譋",
+        "radical": "言部",
+        "phonetic": "閒",
+        "group_id": "124.0",
+        "shuowen": "讕或",
+        "dazidian": "nan",
+        "combined": "讕或",
+        "x": -0.13189101,
+        "y": -0.078318805
+      }
+    ]
+  },
+  "卓": {
+    "人部": [
+      {
+        "character": "倬",
+        "radical": "人部",
+        "phonetic": "卓",
+        "group_id": "25.0",
+        "shuowen": "箸大也",
+        "dazidian": "大",
+        "combined": "箸大也 大",
+        "x": 0.020068303,
+        "y": -0.104822345
+      }
+    ],
+    "心部": [
+      {
+        "character": "悼",
+        "radical": "心部",
+        "phonetic": "卓",
+        "group_id": "25.0",
+        "shuowen": "懼也，陳楚謂懼曰悼",
+        "dazidian": "恐懼",
+        "combined": "懼也，陳楚謂懼曰悼 恐懼",
+        "x": 0.36985758,
+        "y": 0.0707304
+      }
+    ]
+  },
+  "敬": {
+    "人部": [
+      {
+        "character": "儆",
+        "radical": "人部",
+        "phonetic": "敬",
+        "group_id": "26.0",
+        "shuowen": "戒也",
+        "dazidian": "警戒，戒備",
+        "combined": "戒也 警戒，戒備",
+        "x": 0.32705128,
+        "y": -0.0021053054
+      },
+      {
+        "character": "儆",
+        "radical": "人部",
+        "phonetic": "敬",
+        "group_id": "130.0",
+        "shuowen": "戒也",
+        "dazidian": "nan",
+        "combined": "戒也",
+        "x": 0.10800337,
+        "y": 0.0585913
+      }
+    ],
+    "心部": [
+      {
+        "character": "憼",
+        "radical": "心部",
+        "phonetic": "敬",
+        "group_id": "26.0",
+        "shuowen": "敬也",
+        "dazidian": "尊敬",
+        "combined": "敬也 尊敬",
+        "x": 0.053205177,
+        "y": 0.096319005
+      }
+    ],
+    "言部": [
+      {
+        "character": "警",
+        "radical": "言部",
+        "phonetic": "敬",
+        "group_id": "130.0",
+        "shuowen": "言之戒也",
+        "dazidian": "nan",
+        "combined": "言之戒也",
+        "x": 0.13986139,
+        "y": 0.052502602
+      }
+    ]
+  },
+  "庸": {
+    "人部": [
+      {
+        "character": "傭",
+        "radical": "人部",
+        "phonetic": "庸",
+        "group_id": "27.0",
+        "shuowen": "均直也",
+        "dazidian": "均等",
+        "combined": "均直也 均等",
+        "x": -0.041106816,
+        "y": -0.032129247
+      }
+    ],
+    "心部": [
+      {
+        "character": "慵",
+        "radical": "心部",
+        "phonetic": "庸",
+        "group_id": "27.0",
+        "shuowen": "嬾也",
+        "dazidian": "懶",
+        "combined": "嬾也 懶",
+        "x": -0.060453054,
+        "y": -0.14223102
+      }
+    ]
+  },
+  "弗": {
+    "人部": [
+      {
+        "character": "佛",
+        "radical": "人部",
+        "phonetic": "弗",
+        "group_id": "28.0",
+        "shuowen": "見不審也",
+        "dazidian": "同彷。相似",
+        "combined": "見不審也 同彷。相似",
+        "x": 0.21000351,
+        "y": -0.05726871
+      }
+    ],
+    "心部": [
+      {
+        "character": "怫",
+        "radical": "心部",
+        "phonetic": "弗",
+        "group_id": "28.0",
+        "shuowen": "鬱也",
+        "dazidian": "悒鬱，心情不舒暢",
+        "combined": "鬱也 悒鬱，心情不舒暢",
+        "x": 0.42959008,
+        "y": -0.05009579
+      }
+    ]
+  },
+  "詹": {
+    "人部": [
+      {
+        "character": "儋",
+        "radical": "人部",
+        "phonetic": "詹",
+        "group_id": "29.0",
+        "shuowen": "何也",
+        "dazidian": "nan",
+        "combined": "何也",
+        "x": -0.14469834,
+        "y": 0.07575089
+      }
+    ],
+    "心部": [
+      {
+        "character": "憺",
+        "radical": "心部",
+        "phonetic": "詹",
+        "group_id": "29.0",
+        "shuowen": "安也",
+        "dazidian": "nan",
+        "combined": "安也",
+        "x": -0.08565675,
+        "y": 0.11322587
+      }
+    ]
+  },
+  "共": {
+    "人部": [
+      {
+        "character": "供",
+        "radical": "人部",
+        "phonetic": "共",
+        "group_id": "30.0",
+        "shuowen": "設也",
+        "dazidian": "nan",
+        "combined": "設也",
+        "x": -0.054780997,
+        "y": 0.07477014
+      }
+    ],
+    "心部": [
+      {
+        "character": "㤨",
+        "radical": "心部",
+        "phonetic": "共",
+        "group_id": "30.0",
+        "shuowen": "戰慄也",
+        "dazidian": "nan",
+        "combined": "戰慄也",
+        "x": 0.073883556,
+        "y": -0.002632118
+      }
+    ]
+  },
+  "全": {
+    "人部": [
+      {
+        "character": "佺",
+        "radical": "人部",
+        "phonetic": "全",
+        "group_id": "31.0",
+        "shuowen": "偓佺，仙人也",
+        "dazidian": "nan",
+        "combined": "偓佺，仙人也",
+        "x": -0.03641151,
+        "y": -0.23208474
+      },
+      {
+        "character": "佺",
+        "radical": "人部",
+        "phonetic": "全",
+        "group_id": "87.0",
+        "shuowen": "偓佺也",
+        "dazidian": "nan",
+        "combined": "偓佺也",
+        "x": -0.23328575,
+        "y": -0.058021825
+      }
+    ],
+    "心部": [
+      {
+        "character": "恮",
+        "radical": "心部",
+        "phonetic": "全",
+        "group_id": "31.0",
+        "shuowen": "謹也",
+        "dazidian": "nan",
+        "combined": "謹也",
+        "x": 0.020141983,
+        "y": 0.084125966
+      }
+    ],
+    "言部": [
+      {
+        "character": "詮",
+        "radical": "言部",
+        "phonetic": "全",
+        "group_id": "87.0",
+        "shuowen": "具也",
+        "dazidian": "nan",
+        "combined": "具也",
+        "x": -0.095337175,
+        "y": 0.053267755
+      }
+    ]
+  },
+  "侖": {
+    "人部": [
+      {
+        "character": "倫",
+        "radical": "人部",
+        "phonetic": "侖",
+        "group_id": "32.0",
+        "shuowen": "輩也",
+        "dazidian": "nan",
+        "combined": "輩也",
+        "x": -0.028393954,
+        "y": -0.017940471
+      },
+      {
+        "character": "倫",
+        "radical": "人部",
+        "phonetic": "侖",
+        "group_id": "106.0",
+        "shuowen": "輩也",
+        "dazidian": "nan",
+        "combined": "輩也",
+        "x": -0.028393954,
+        "y": -0.017940471
+      }
+    ],
+    "心部": [
+      {
+        "character": "惀",
+        "radical": "心部",
+        "phonetic": "侖",
+        "group_id": "32.0",
+        "shuowen": "欲知之皃",
+        "dazidian": "nan",
+        "combined": "欲知之皃",
+        "x": -0.0023866175,
+        "y": -0.03474507
+      }
+    ],
+    "言部": [
+      {
+        "character": "論",
+        "radical": "言部",
+        "phonetic": "侖",
+        "group_id": "106.0",
+        "shuowen": "議也",
+        "dazidian": "nan",
+        "combined": "議也",
+        "x": -0.06539211,
+        "y": 0.10791702
+      }
+    ]
+  },
+  "甫": {
+    "人部": [
+      {
+        "character": "俌",
+        "radical": "人部",
+        "phonetic": "甫",
+        "group_id": "33.0",
+        "shuowen": "輔也",
+        "dazidian": "nan",
+        "combined": "輔也",
+        "x": -0.07865745,
+        "y": 0.08002754
+      },
+      {
+        "character": "俌",
+        "radical": "人部",
+        "phonetic": "甫",
+        "group_id": "96.0",
+        "shuowen": "輔也",
+        "dazidian": "nan",
+        "combined": "輔也",
+        "x": -0.07865745,
+        "y": 0.08002754
+      }
+    ],
+    "心部": [
+      {
+        "character": "悑",
+        "radical": "心部",
+        "phonetic": "甫",
+        "group_id": "33.0",
+        "shuowen": "惶也",
+        "dazidian": "nan",
+        "combined": "惶也",
+        "x": 0.0825612,
+        "y": 0.08519694
+      }
+    ],
+    "言部": [
+      {
+        "character": "誧",
+        "radical": "言部",
+        "phonetic": "甫",
+        "group_id": "96.0",
+        "shuowen": "大也",
+        "dazidian": "nan",
+        "combined": "大也",
+        "x": -0.08157007,
+        "y": -0.036106188
+      }
+    ]
+  },
+  "寺": {
+    "人部": [
+      {
+        "character": "侍",
+        "radical": "人部",
+        "phonetic": "寺",
+        "group_id": "34.0",
+        "shuowen": "承也",
+        "dazidian": "侍奉",
+        "combined": "承也 侍奉",
+        "x": 0.034321923,
+        "y": 0.12675849
+      },
+      {
+        "character": "侍",
+        "radical": "人部",
+        "phonetic": "寺",
+        "group_id": "83.0",
+        "shuowen": "承也",
+        "dazidian": "nan",
+        "combined": "承也",
+        "x": -0.06999928,
+        "y": 0.120074466
+      }
+    ],
+    "心部": [
+      {
+        "character": "恃",
+        "radical": "心部",
+        "phonetic": "寺",
+        "group_id": "34.0",
+        "shuowen": "賴也",
+        "dazidian": "依賴",
+        "combined": "賴也 依賴",
+        "x": 0.031945217,
+        "y": 0.088291116
+      }
+    ],
+    "言部": [
+      {
+        "character": "詩",
+        "radical": "言部",
+        "phonetic": "寺",
+        "group_id": "83.0",
+        "shuowen": "志也",
+        "dazidian": "nan",
+        "combined": "志也",
+        "x": -0.04552738,
+        "y": 0.056200482
+      }
+    ]
+  },
+  "則": {
+    "人部": [
+      {
+        "character": "側",
+        "radical": "人部",
+        "phonetic": "則",
+        "group_id": "35.0",
+        "shuowen": "㫄也",
+        "dazidian": "nan",
+        "combined": "㫄也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "心部": [
+      {
+        "character": "惻",
+        "radical": "心部",
+        "phonetic": "則",
+        "group_id": "35.0",
+        "shuowen": "痛也",
+        "dazidian": "nan",
+        "combined": "痛也",
+        "x": 0.10027884,
+        "y": 0.18301308
+      }
+    ]
+  },
+  "血": {
+    "人部": [
+      {
+        "character": "侐",
+        "radical": "人部",
+        "phonetic": "血",
+        "group_id": "36.0",
+        "shuowen": "靜也",
+        "dazidian": "清靜",
+        "combined": "靜也 清靜",
+        "x": 0.061861083,
+        "y": 0.01878376
+      }
+    ],
+    "心部": [
+      {
+        "character": "恤",
+        "radical": "心部",
+        "phonetic": "血",
+        "group_id": "36.0",
+        "shuowen": "憂也，收也",
+        "dazidian": "憂",
+        "combined": "憂也，收也 憂",
+        "x": 0.2342299,
+        "y": 0.12002313
+      }
+    ]
+  },
+  "夾": {
+    "人部": [
+      {
+        "character": "俠",
+        "radical": "人部",
+        "phonetic": "夾",
+        "group_id": "37.0",
+        "shuowen": "俜也",
+        "dazidian": "俠義",
+        "combined": "俜也 俠義",
+        "x": -0.08225244,
+        "y": -0.18731126
+      }
+    ],
+    "心部": [
+      {
+        "character": "㤲",
+        "radical": "心部",
+        "phonetic": "夾",
+        "group_id": "37.0",
+        "shuowen": "思皃",
+        "dazidian": "思貌",
+        "combined": "思皃 思貌",
+        "x": 0.009355463,
+        "y": -0.10998478
+      }
+    ]
+  },
+  "舌": {
+    "人部": [
+      {
+        "character": "佸",
+        "radical": "人部",
+        "phonetic": "舌",
+        "group_id": "39.0",
+        "shuowen": "會也",
+        "dazidian": "nan",
+        "combined": "會也",
+        "x": -0.091043554,
+        "y": 0.070367806
+      },
+      {
+        "character": "佸",
+        "radical": "人部",
+        "phonetic": "舌",
+        "group_id": "86.0",
+        "shuowen": "會也",
+        "dazidian": "nan",
+        "combined": "會也",
+        "x": -0.091043554,
+        "y": 0.070367806
+      }
+    ],
+    "心部": [
+      {
+        "character": "恬",
+        "radical": "心部",
+        "phonetic": "舌",
+        "group_id": "39.0",
+        "shuowen": "安也",
+        "dazidian": "nan",
+        "combined": "安也",
+        "x": -0.08565675,
+        "y": 0.11322587
+      }
+    ],
+    "言部": [
+      {
+        "character": "話",
+        "radical": "言部",
+        "phonetic": "舌",
+        "group_id": "86.0",
+        "shuowen": "會合善言也",
+        "dazidian": "nan",
+        "combined": "會合善言也",
+        "x": 0.017398361,
+        "y": 0.020063851
+      }
+    ]
+  },
+  "合": {
+    "人部": [
+      {
+        "character": "佮",
+        "radical": "人部",
+        "phonetic": "合",
+        "group_id": "40.0",
+        "shuowen": "合也",
+        "dazidian": "nan",
+        "combined": "合也",
+        "x": -0.0864346,
+        "y": 0.093555875
+      },
+      {
+        "character": "佮",
+        "radical": "人部",
+        "phonetic": "合",
+        "group_id": "79.0",
+        "shuowen": "合也",
+        "dazidian": "nan",
+        "combined": "合也",
+        "x": -0.0864346,
+        "y": 0.093555875
+      }
+    ],
+    "心部": [
+      {
+        "character": "恰",
+        "radical": "心部",
+        "phonetic": "合",
+        "group_id": "40.0",
+        "shuowen": "用心也",
+        "dazidian": "nan",
+        "combined": "用心也",
+        "x": 0.013550514,
+        "y": 0.05569085
+      }
+    ],
+    "言部": [
+      {
+        "character": "詥",
+        "radical": "言部",
+        "phonetic": "合",
+        "group_id": "79.0",
+        "shuowen": "諧也",
+        "dazidian": "nan",
+        "combined": "諧也",
+        "x": -0.002642668,
+        "y": 0.044936985
+      }
+    ]
+  },
+  "乍": {
+    "人部": [
+      {
+        "character": "作",
+        "radical": "人部",
+        "phonetic": "乍",
+        "group_id": "41.0",
+        "shuowen": "起也",
+        "dazidian": "nan",
+        "combined": "起也",
+        "x": -0.06698146,
+        "y": 0.060682382
+      },
+      {
+        "character": "作",
+        "radical": "人部",
+        "phonetic": "乍",
+        "group_id": "78.0",
+        "shuowen": "起也",
+        "dazidian": "nan",
+        "combined": "起也",
+        "x": -0.06698146,
+        "y": 0.060682382
+      }
+    ],
+    "心部": [
+      {
+        "character": "怍",
+        "radical": "心部",
+        "phonetic": "乍",
+        "group_id": "41.0",
+        "shuowen": "慙也",
+        "dazidian": "nan",
+        "combined": "慙也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "詐",
+        "radical": "言部",
+        "phonetic": "乍",
+        "group_id": "78.0",
+        "shuowen": "欺也",
+        "dazidian": "nan",
+        "combined": "欺也",
+        "x": 0.031177353,
+        "y": 0.04144622
+      }
+    ]
+  },
+  "昔": {
+    "人部": [
+      {
+        "character": "借",
+        "radical": "人部",
+        "phonetic": "昔",
+        "group_id": "42.0",
+        "shuowen": "假也",
+        "dazidian": "nan",
+        "combined": "假也",
+        "x": -0.03818168,
+        "y": 0.07583625
+      },
+      {
+        "character": "借",
+        "radical": "人部",
+        "phonetic": "昔",
+        "group_id": "103.0",
+        "shuowen": "假也",
+        "dazidian": "nan",
+        "combined": "假也",
+        "x": -0.03818168,
+        "y": 0.07583625
+      }
+    ],
+    "心部": [
+      {
+        "character": "惜",
+        "radical": "心部",
+        "phonetic": "昔",
+        "group_id": "42.0",
+        "shuowen": "痛也",
+        "dazidian": "nan",
+        "combined": "痛也",
+        "x": 0.10027884,
+        "y": 0.18301308
+      }
+    ],
+    "言部": [
+      {
+        "character": "諎",
+        "radical": "言部",
+        "phonetic": "昔",
+        "group_id": "103.0",
+        "shuowen": "大聲也",
+        "dazidian": "nan",
+        "combined": "大聲也",
+        "x": 0.0032683243,
+        "y": -0.05640237
+      }
+    ]
+  },
+  "僉": {
+    "人部": [
+      {
+        "character": "儉",
+        "radical": "人部",
+        "phonetic": "僉",
+        "group_id": "43.0",
+        "shuowen": "約也",
+        "dazidian": "nan",
+        "combined": "約也",
+        "x": -0.045016076,
+        "y": 0.0683336
+      },
+      {
+        "character": "儉",
+        "radical": "人部",
+        "phonetic": "僉",
+        "group_id": "129.0",
+        "shuowen": "約也",
+        "dazidian": "nan",
+        "combined": "約也",
+        "x": -0.045016076,
+        "y": 0.0683336
+      }
+    ],
+    "心部": [
+      {
+        "character": "憸",
+        "radical": "心部",
+        "phonetic": "僉",
+        "group_id": "43.0",
+        "shuowen": "憸詖也，憸利於上，佞人也",
+        "dazidian": "nan",
+        "combined": "憸詖也，憸利於上，佞人也",
+        "x": 0.09038182,
+        "y": -0.19202046
+      }
+    ],
+    "言部": [
+      {
+        "character": "譣",
+        "radical": "言部",
+        "phonetic": "僉",
+        "group_id": "129.0",
+        "shuowen": "問也",
+        "dazidian": "nan",
+        "combined": "問也",
+        "x": -0.10756431,
+        "y": 0.10062577
+      }
+    ]
+  },
+  "面": {
+    "人部": [
+      {
+        "character": "偭",
+        "radical": "人部",
+        "phonetic": "面",
+        "group_id": "44.0",
+        "shuowen": "鄉也",
+        "dazidian": "nan",
+        "combined": "鄉也",
+        "x": -0.061803006,
+        "y": 0.07186383
+      }
+    ],
+    "心部": [
+      {
+        "character": "愐",
+        "radical": "心部",
+        "phonetic": "面",
+        "group_id": "44.0",
+        "shuowen": "勉也",
+        "dazidian": "nan",
+        "combined": "勉也",
+        "x": -0.033530496,
+        "y": 0.062407102
+      }
+    ]
+  },
+  "官": {
+    "人部": [
+      {
+        "character": "倌",
+        "radical": "人部",
+        "phonetic": "官",
+        "group_id": "45.0",
+        "shuowen": "小臣也",
+        "dazidian": "nan",
+        "combined": "小臣也",
+        "x": 0.010230484,
+        "y": -0.026575752
+      }
+    ],
+    "心部": [
+      {
+        "character": "悹",
+        "radical": "心部",
+        "phonetic": "官",
+        "group_id": "45.0",
+        "shuowen": "憂也",
+        "dazidian": "nan",
+        "combined": "憂也",
+        "x": 0.109482914,
+        "y": 0.16322216
+      }
+    ]
+  },
+  "介": {
+    "人部": [
+      {
+        "character": "价",
+        "radical": "人部",
+        "phonetic": "介",
+        "group_id": "46.0",
+        "shuowen": "善也",
+        "dazidian": "nan",
+        "combined": "善也",
+        "x": -0.045929424,
+        "y": 0.041562945
+      }
+    ],
+    "心部": [
+      {
+        "character": "忦",
+        "radical": "心部",
+        "phonetic": "介",
+        "group_id": "46.0",
+        "shuowen": "憂也",
+        "dazidian": "nan",
+        "combined": "憂也",
+        "x": 0.109482914,
+        "y": 0.16322216
+      }
+    ]
+  },
+  "且": {
+    "人部": [
+      {
+        "character": "伹",
+        "radical": "人部",
+        "phonetic": "且",
+        "group_id": "47.0",
+        "shuowen": "拙也",
+        "dazidian": "nan",
+        "combined": "拙也",
+        "x": -0.0003332911,
+        "y": -0.08186496
+      },
+      {
+        "character": "伹",
+        "radical": "人部",
+        "phonetic": "且",
+        "group_id": "73.0",
+        "shuowen": "拙也",
+        "dazidian": "nan",
+        "combined": "拙也",
+        "x": -0.0003332911,
+        "y": -0.08186496
+      }
+    ],
+    "心部": [
+      {
+        "character": "怚",
+        "radical": "心部",
+        "phonetic": "且",
+        "group_id": "47.0",
+        "shuowen": "驕也",
+        "dazidian": "nan",
+        "combined": "驕也",
+        "x": -0.033101745,
+        "y": 0.0011920353
+      }
+    ],
+    "言部": [
+      {
+        "character": "詛",
+        "radical": "言部",
+        "phonetic": "且",
+        "group_id": "73.0",
+        "shuowen": "詶也",
+        "dazidian": "nan",
+        "combined": "詶也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "朁": {
+    "人部": [
+      {
+        "character": "僭",
+        "radical": "人部",
+        "phonetic": "朁",
+        "group_id": "48.0",
+        "shuowen": "假也",
+        "dazidian": "nan",
+        "combined": "假也",
+        "x": -0.03818168,
+        "y": 0.07583625
+      },
+      {
+        "character": "僭",
+        "radical": "人部",
+        "phonetic": "朁",
+        "group_id": "122.0",
+        "shuowen": "儗也",
+        "dazidian": "nan",
+        "combined": "儗也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "心部": [
+      {
+        "character": "憯",
+        "radical": "心部",
+        "phonetic": "朁",
+        "group_id": "48.0",
+        "shuowen": "痛也",
+        "dazidian": "nan",
+        "combined": "痛也",
+        "x": 0.10027884,
+        "y": 0.18301308
+      }
+    ],
+    "言部": [
+      {
+        "character": "譖",
+        "radical": "言部",
+        "phonetic": "朁",
+        "group_id": "122.0",
+        "shuowen": "愬也",
+        "dazidian": "nan",
+        "combined": "愬也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "長": {
+    "人部": [
+      {
+        "character": "倀",
+        "radical": "人部",
+        "phonetic": "長",
+        "group_id": "49.0",
+        "shuowen": "狂也",
+        "dazidian": "nan",
+        "combined": "狂也",
+        "x": 0.08062926,
+        "y": -0.04729732
+      }
+    ],
+    "心部": [
+      {
+        "character": "悵",
+        "radical": "心部",
+        "phonetic": "長",
+        "group_id": "49.0",
+        "shuowen": "望恨也",
+        "dazidian": "nan",
+        "combined": "望恨也",
+        "x": 0.15912518,
+        "y": 0.12438494
+      }
+    ]
+  },
+  "支": {
+    "人部": [
+      {
+        "character": "伎",
+        "radical": "人部",
+        "phonetic": "支",
+        "group_id": "50.0",
+        "shuowen": "與也",
+        "dazidian": "nan",
+        "combined": "與也",
+        "x": -0.10153003,
+        "y": 0.056736752
+      }
+    ],
+    "心部": [
+      {
+        "character": "忮",
+        "radical": "心部",
+        "phonetic": "支",
+        "group_id": "50.0",
+        "shuowen": "很也",
+        "dazidian": "nan",
+        "combined": "很也",
+        "x": -0.09828882,
+        "y": 0.015448312
+      }
+    ]
+  },
+  "台": {
+    "人部": [
+      {
+        "character": "佁",
+        "radical": "人部",
+        "phonetic": "台",
+        "group_id": "51.0",
+        "shuowen": "癡皃",
+        "dazidian": "nan",
+        "combined": "癡皃",
+        "x": 0.034852527,
+        "y": -0.17627312
+      },
+      {
+        "character": "佁",
+        "radical": "人部",
+        "phonetic": "台",
+        "group_id": "74.0",
+        "shuowen": "癡皃",
+        "dazidian": "nan",
+        "combined": "癡皃",
+        "x": 0.034852527,
+        "y": -0.17627312
+      }
+    ],
+    "心部": [
+      {
+        "character": "怡",
+        "radical": "心部",
+        "phonetic": "台",
+        "group_id": "51.0",
+        "shuowen": "和也",
+        "dazidian": "nan",
+        "combined": "和也",
+        "x": -0.12831822,
+        "y": 0.063373975
+      }
+    ],
+    "言部": [
+      {
+        "character": "詒",
+        "radical": "言部",
+        "phonetic": "台",
+        "group_id": "74.0",
+        "shuowen": "相欺詒也",
+        "dazidian": "nan",
+        "combined": "相欺詒也",
+        "x": 0.053869464,
+        "y": -0.033991918
+      }
+    ]
+  },
+  "票": {
+    "人部": [
+      {
+        "character": "僄",
+        "radical": "人部",
+        "phonetic": "票",
+        "group_id": "52.0",
+        "shuowen": "輕也",
+        "dazidian": "nan",
+        "combined": "輕也",
+        "x": -0.00968394,
+        "y": -0.059547067
+      }
+    ],
+    "心部": [
+      {
+        "character": "慓",
+        "radical": "心部",
+        "phonetic": "票",
+        "group_id": "52.0",
+        "shuowen": "疾也",
+        "dazidian": "nan",
+        "combined": "疾也",
+        "x": 0.10007792,
+        "y": 0.0957458
+      }
+    ]
+  },
+  "非": {
+    "人部": [
+      {
+        "character": "俳",
+        "radical": "人部",
+        "phonetic": "非",
+        "group_id": "53.0",
+        "shuowen": "戲也",
+        "dazidian": "雜戲",
+        "combined": "戲也 雜戲",
+        "x": 0.039110314,
+        "y": 0.00931275
+      }
+    ],
+    "心部": [
+      {
+        "character": "悱",
+        "radical": "心部",
+        "phonetic": "非",
+        "group_id": "53.0",
+        "shuowen": "口悱悱也",
+        "dazidian": "想說而說不出的樣子",
+        "combined": "口悱悱也 想說而說不出的樣子",
+        "x": 0.17357387,
+        "y": -0.05904568
+      }
+    ]
+  },
+  "每": {
+    "人部": [
+      {
+        "character": "侮",
+        "radical": "人部",
+        "phonetic": "每",
+        "group_id": "54.0",
+        "shuowen": "傷也",
+        "dazidian": "欺凌",
+        "combined": "傷也 欺凌",
+        "x": 0.19810328,
+        "y": 0.025417516
+      },
+      {
+        "character": "侮",
+        "radical": "人部",
+        "phonetic": "每",
+        "group_id": "93.0",
+        "shuowen": "㑥也",
+        "dazidian": "nan",
+        "combined": "㑥也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "心部": [
+      {
+        "character": "悔",
+        "radical": "心部",
+        "phonetic": "每",
+        "group_id": "54.0",
+        "shuowen": "悔恨也",
+        "dazidian": "悔恨",
+        "combined": "悔恨也 悔恨",
+        "x": 0.20435056,
+        "y": 0.11040112
+      }
+    ],
+    "言部": [
+      {
+        "character": "誨",
+        "radical": "言部",
+        "phonetic": "每",
+        "group_id": "93.0",
+        "shuowen": "曉教也",
+        "dazidian": "nan",
+        "combined": "曉教也",
+        "x": 0.0036591406,
+        "y": 0.011093691
+      }
+    ]
+  },
+  "十": {
+    "人部": [
+      {
+        "character": "什",
+        "radical": "人部",
+        "phonetic": "十",
+        "group_id": "55.0",
+        "shuowen": "相什保也",
+        "dazidian": "nan",
+        "combined": "相什保也",
+        "x": -0.020981919,
+        "y": 0.05906458
+      }
+    ],
+    "言部": [
+      {
+        "character": "計",
+        "radical": "言部",
+        "phonetic": "十",
+        "group_id": "55.0",
+        "shuowen": "會也",
+        "dazidian": "nan",
+        "combined": "會也",
+        "x": -0.091043554,
+        "y": 0.070367806
+      }
+    ]
+  },
+  "九": {
+    "人部": [
+      {
+        "character": "仇",
+        "radical": "人部",
+        "phonetic": "九",
+        "group_id": "56.0",
+        "shuowen": "讎也",
+        "dazidian": "nan",
+        "combined": "讎也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "訄",
+        "radical": "言部",
+        "phonetic": "九",
+        "group_id": "56.0",
+        "shuowen": "迫也",
+        "dazidian": "nan",
+        "combined": "迫也",
+        "x": 0.026245877,
+        "y": 0.12171449
+      }
+    ]
+  },
+  "乃": {
+    "人部": [
+      {
+        "character": "仍",
+        "radical": "人部",
+        "phonetic": "乃",
+        "group_id": "57.0",
+        "shuowen": "因也",
+        "dazidian": "nan",
+        "combined": "因也",
+        "x": -0.117651,
+        "y": 0.10729188
+      }
+    ],
+    "言部": [
+      {
+        "character": "䚮",
+        "radical": "言部",
+        "phonetic": "乃",
+        "group_id": "57.0",
+        "shuowen": "厚也",
+        "dazidian": "nan",
+        "combined": "厚也",
+        "x": -0.0066277124,
+        "y": -0.019809434
+      }
+    ]
+  },
+  "工": {
+    "人部": [
+      {
+        "character": "仜",
+        "radical": "人部",
+        "phonetic": "工",
+        "group_id": "58.0",
+        "shuowen": "大腹也",
+        "dazidian": "nan",
+        "combined": "大腹也",
+        "x": 0.056441505,
+        "y": -0.108891696
+      }
+    ],
+    "言部": [
+      {
+        "character": "訌",
+        "radical": "言部",
+        "phonetic": "工",
+        "group_id": "58.0",
+        "shuowen": "䜋也",
+        "dazidian": "nan",
+        "combined": "䜋也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "干": {
+    "人部": [
+      {
+        "character": "仠",
+        "radical": "人部",
+        "phonetic": "干",
+        "group_id": "59.0",
+        "shuowen": "止也",
+        "dazidian": "nan",
+        "combined": "止也",
+        "x": -0.00038267506,
+        "y": 0.13971639
+      }
+    ],
+    "言部": [
+      {
+        "character": "訐",
+        "radical": "言部",
+        "phonetic": "干",
+        "group_id": "59.0",
+        "shuowen": "面相厈罪吿訐也",
+        "dazidian": "nan",
+        "combined": "面相厈罪吿訐也",
+        "x": 0.19754003,
+        "y": -0.09875339
+      }
+    ]
+  },
+  "義": {
+    "人部": [
+      {
+        "character": "儀",
+        "radical": "人部",
+        "phonetic": "義",
+        "group_id": "60.0",
+        "shuowen": "度也",
+        "dazidian": "nan",
+        "combined": "度也",
+        "x": -0.02399261,
+        "y": 0.03919646
+      },
+      {
+        "character": "儀",
+        "radical": "人部",
+        "phonetic": "義",
+        "group_id": "132.0",
+        "shuowen": "度也",
+        "dazidian": "nan",
+        "combined": "度也",
+        "x": -0.02399261,
+        "y": 0.03919646
+      }
+    ],
+    "言部": [
+      {
+        "character": "議",
+        "radical": "言部",
+        "phonetic": "義",
+        "group_id": "60.0",
+        "shuowen": "語也",
+        "dazidian": "nan",
+        "combined": "語也",
+        "x": -0.12900536,
+        "y": 0.06584762
+      },
+      {
+        "character": "議",
+        "radical": "言部",
+        "phonetic": "義",
+        "group_id": "132.0",
+        "shuowen": "語也",
+        "dazidian": "nan",
+        "combined": "語也",
+        "x": -0.12900536,
+        "y": 0.06584762
+      }
+    ]
+  },
+  "寸": {
+    "人部": [
+      {
+        "character": "付",
+        "radical": "人部",
+        "phonetic": "寸",
+        "group_id": "62.0",
+        "shuowen": "予也",
+        "dazidian": "nan",
+        "combined": "予也",
+        "x": -0.08050782,
+        "y": 0.09525919
+      }
+    ],
+    "言部": [
+      {
+        "character": "討",
+        "radical": "言部",
+        "phonetic": "寸",
+        "group_id": "62.0",
+        "shuowen": "治也",
+        "dazidian": "nan",
+        "combined": "治也",
+        "x": -0.061582427,
+        "y": 0.1036021
+      }
+    ]
+  },
+  "它": {
+    "人部": [
+      {
+        "character": "佗",
+        "radical": "人部",
+        "phonetic": "它",
+        "group_id": "63.0",
+        "shuowen": "負何也",
+        "dazidian": "nan",
+        "combined": "負何也",
+        "x": -0.01190773,
+        "y": 0.09139168
+      }
+    ],
+    "言部": [
+      {
+        "character": "詑",
+        "radical": "言部",
+        "phonetic": "它",
+        "group_id": "63.0",
+        "shuowen": "變佗爲他，用爲彼之偁",
+        "dazidian": "nan",
+        "combined": "變佗爲他，用爲彼之偁",
+        "x": 0.118104495,
+        "y": -0.06832958
+      }
+    ]
+  },
+  "山": {
+    "人部": [
+      {
+        "character": "仚",
+        "radical": "人部",
+        "phonetic": "山",
+        "group_id": "64.0",
+        "shuowen": "人在山上皃",
+        "dazidian": "nan",
+        "combined": "人在山上皃",
+        "x": 0.02818704,
+        "y": -0.117223546
+      }
+    ],
+    "言部": [
+      {
+        "character": "訕",
+        "radical": "言部",
+        "phonetic": "山",
+        "group_id": "64.0",
+        "shuowen": "謗也",
+        "dazidian": "nan",
+        "combined": "謗也",
+        "x": 0.003282605,
+        "y": 0.007485738
+      }
+    ]
+  },
+  "乞": {
+    "人部": [
+      {
+        "character": "仡",
+        "radical": "人部",
+        "phonetic": "乞",
+        "group_id": "65.0",
+        "shuowen": "勇壯也",
+        "dazidian": "nan",
+        "combined": "勇壯也",
+        "x": 0.05868588,
+        "y": -0.12278224
+      }
+    ],
+    "言部": [
+      {
+        "character": "訖",
+        "radical": "言部",
+        "phonetic": "乞",
+        "group_id": "65.0",
+        "shuowen": "止也",
+        "dazidian": "nan",
+        "combined": "止也",
+        "x": -0.00038267506,
+        "y": 0.13971639
+      }
+    ]
+  },
+  "區": {
+    "人部": [
+      {
+        "character": "傴",
+        "radical": "人部",
+        "phonetic": "區",
+        "group_id": "66.0",
+        "shuowen": "僂也",
+        "dazidian": "nan",
+        "combined": "僂也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      },
+      {
+        "character": "傴",
+        "radical": "人部",
+        "phonetic": "區",
+        "group_id": "118.0",
+        "shuowen": "僂也",
+        "dazidian": "nan",
+        "combined": "僂也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "謳",
+        "radical": "言部",
+        "phonetic": "區",
+        "group_id": "66.0",
+        "shuowen": "齊歌也",
+        "dazidian": "nan",
+        "combined": "齊歌也",
+        "x": -0.022400673,
+        "y": 0.051164567
+      },
+      {
+        "character": "謳",
+        "radical": "言部",
+        "phonetic": "區",
+        "group_id": "118.0",
+        "shuowen": "齊歌也",
+        "dazidian": "nan",
+        "combined": "齊歌也",
+        "x": -0.022400673,
+        "y": 0.051164567
+      }
+    ]
+  },
+  "公": {
+    "人部": [
+      {
+        "character": "伀",
+        "radical": "人部",
+        "phonetic": "公",
+        "group_id": "67.0",
+        "shuowen": "志及衆也",
+        "dazidian": "nan",
+        "combined": "志及衆也",
+        "x": 0.052905425,
+        "y": -0.050701775
+      }
+    ],
+    "言部": [
+      {
+        "character": "訟",
+        "radical": "言部",
+        "phonetic": "公",
+        "group_id": "67.0",
+        "shuowen": "爭也",
+        "dazidian": "nan",
+        "combined": "爭也",
+        "x": -0.0021681772,
+        "y": 0.078958124
+      }
+    ]
+  },
+  "方": {
+    "人部": [
+      {
+        "character": "仿",
+        "radical": "人部",
+        "phonetic": "方",
+        "group_id": "68.0",
+        "shuowen": "仿佛，逗",
+        "dazidian": "nan",
+        "combined": "仿佛，逗",
+        "x": 0.106528714,
+        "y": -0.03446219
+      }
+    ],
+    "言部": [
+      {
+        "character": "訪",
+        "radical": "言部",
+        "phonetic": "方",
+        "group_id": "68.0",
+        "shuowen": "汎謀曰訪",
+        "dazidian": "nan",
+        "combined": "汎謀曰訪",
+        "x": 0.09059213,
+        "y": -0.04258902
+      }
+    ]
+  },
+  "憂": {
+    "人部": [
+      {
+        "character": "優",
+        "radical": "人部",
+        "phonetic": "憂",
+        "group_id": "69.0",
+        "shuowen": "饒也",
+        "dazidian": "nan",
+        "combined": "饒也",
+        "x": -0.014263005,
+        "y": -0.0018185145
+      }
+    ]
+  },
+  "尤": {
+    "言部": [
+      {
+        "character": "訧",
+        "radical": "言部",
+        "phonetic": "尤",
+        "group_id": "69.0",
+        "shuowen": "罪也",
+        "dazidian": "nan",
+        "combined": "罪也",
+        "x": 0.07799,
+        "y": 0.09478203
+      }
+    ]
+  },
+  "韋": {
+    "人部": [
+      {
+        "character": "偉",
+        "radical": "人部",
+        "phonetic": "韋",
+        "group_id": "70.0",
+        "shuowen": "奇也",
+        "dazidian": "nan",
+        "combined": "奇也",
+        "x": -0.078384325,
+        "y": -0.052832797
+      },
+      {
+        "character": "偉",
+        "radical": "人部",
+        "phonetic": "韋",
+        "group_id": "110.0",
+        "shuowen": "奇也",
+        "dazidian": "nan",
+        "combined": "奇也",
+        "x": -0.078384325,
+        "y": -0.052832797
+      }
+    ],
+    "言部": [
+      {
+        "character": "諱",
+        "radical": "言部",
+        "phonetic": "韋",
+        "group_id": "70.0",
+        "shuowen": "忌也",
+        "dazidian": "nan",
+        "combined": "忌也",
+        "x": 0.14561248,
+        "y": 0.11598539
+      },
+      {
+        "character": "諱",
+        "radical": "言部",
+        "phonetic": "韋",
+        "group_id": "110.0",
+        "shuowen": "忌也",
+        "dazidian": "nan",
+        "combined": "忌也",
+        "x": 0.14561248,
+        "y": 0.11598539
+      }
+    ]
+  },
+  "只": {
+    "人部": [
+      {
+        "character": "伿",
+        "radical": "人部",
+        "phonetic": "只",
+        "group_id": "71.0",
+        "shuowen": "惰也",
+        "dazidian": "nan",
+        "combined": "惰也",
+        "x": 0.026491888,
+        "y": -0.01063902
+      }
+    ],
+    "言部": [
+      {
+        "character": "識",
+        "radical": "言部",
+        "phonetic": "只",
+        "group_id": "71.0",
+        "shuowen": "常也",
+        "dazidian": "nan",
+        "combined": "常也",
+        "x": -0.05687629,
+        "y": 0.04236973
+      }
+    ]
+  },
+  "可": {
+    "人部": [
+      {
+        "character": "何",
+        "radical": "人部",
+        "phonetic": "可",
+        "group_id": "72.0",
+        "shuowen": "儋也",
+        "dazidian": "nan",
+        "combined": "儋也",
+        "x": -0.022592435,
+        "y": -0.008971703
+      }
+    ],
+    "言部": [
+      {
+        "character": "訶",
+        "radical": "言部",
+        "phonetic": "可",
+        "group_id": "72.0",
+        "shuowen": "大言而怒也",
+        "dazidian": "nan",
+        "combined": "大言而怒也",
+        "x": 0.16353913,
+        "y": -0.043461505
+      }
+    ]
+  },
+  "失": {
+    "人部": [
+      {
+        "character": "佚",
+        "radical": "人部",
+        "phonetic": "失",
+        "group_id": "75.0",
+        "shuowen": "佚民也",
+        "dazidian": "nan",
+        "combined": "佚民也",
+        "x": 0.03149716,
+        "y": -0.025262529
+      }
+    ],
+    "言部": [
+      {
+        "character": "詄",
+        "radical": "言部",
+        "phonetic": "失",
+        "group_id": "75.0",
+        "shuowen": "忘也",
+        "dazidian": "nan",
+        "combined": "忘也",
+        "x": -0.013807218,
+        "y": 0.11259187
+      }
+    ]
+  },
+  "氐": {
+    "人部": [
+      {
+        "character": "低",
+        "radical": "人部",
+        "phonetic": "氐",
+        "group_id": "76.0",
+        "shuowen": "下也",
+        "dazidian": "nan",
+        "combined": "下也",
+        "x": -0.083527096,
+        "y": 0.06423192
+      }
+    ],
+    "言部": [
+      {
+        "character": "詆",
+        "radical": "言部",
+        "phonetic": "氐",
+        "group_id": "76.0",
+        "shuowen": "訶也",
+        "dazidian": "nan",
+        "combined": "訶也",
+        "x": -0.058394786,
+        "y": 0.017282756
+      }
+    ]
+  },
+  "召": {
+    "人部": [
+      {
+        "character": "佋",
+        "radical": "人部",
+        "phonetic": "召",
+        "group_id": "77.0",
+        "shuowen": "廟佋穆",
+        "dazidian": "nan",
+        "combined": "廟佋穆",
+        "x": 0.010489616,
+        "y": -0.076121986
+      }
+    ],
+    "言部": [
+      {
+        "character": "詔",
+        "radical": "言部",
+        "phonetic": "召",
+        "group_id": "77.0",
+        "shuowen": "告也",
+        "dazidian": "nan",
+        "combined": "告也",
+        "x": -0.047759876,
+        "y": 0.14834037
+      }
+    ]
+  },
+  "先": {
+    "人部": [
+      {
+        "character": "侁",
+        "radical": "人部",
+        "phonetic": "先",
+        "group_id": "80.0",
+        "shuowen": "行皃",
+        "dazidian": "nan",
+        "combined": "行皃",
+        "x": -0.035796653,
+        "y": -0.055844173
+      }
+    ],
+    "言部": [
+      {
+        "character": "詵",
+        "radical": "言部",
+        "phonetic": "先",
+        "group_id": "80.0",
+        "shuowen": "致言也",
+        "dazidian": "nan",
+        "combined": "致言也",
+        "x": -0.010920872,
+        "y": 0.098896496
+      }
+    ]
+  },
+  "式": {
+    "人部": [
+      {
+        "character": "侙",
+        "radical": "人部",
+        "phonetic": "式",
+        "group_id": "82.0",
+        "shuowen": "惕也",
+        "dazidian": "nan",
+        "combined": "惕也",
+        "x": -0.0061999816,
+        "y": 0.08520799
+      }
+    ],
+    "言部": [
+      {
+        "character": "試",
+        "radical": "言部",
+        "phonetic": "式",
+        "group_id": "82.0",
+        "shuowen": "用也",
+        "dazidian": "nan",
+        "combined": "用也",
+        "x": -0.06681371,
+        "y": 0.085826956
+      }
+    ]
+  },
+  "吉": {
+    "人部": [
+      {
+        "character": "佶",
+        "radical": "人部",
+        "phonetic": "吉",
+        "group_id": "84.0",
+        "shuowen": "正也",
+        "dazidian": "nan",
+        "combined": "正也",
+        "x": -0.11747473,
+        "y": 0.036924366
+      }
+    ],
+    "言部": [
+      {
+        "character": "詰",
+        "radical": "言部",
+        "phonetic": "吉",
+        "group_id": "84.0",
+        "shuowen": "問也",
+        "dazidian": "nan",
+        "combined": "問也",
+        "x": -0.10756431,
+        "y": 0.10062577
+      }
+    ]
+  },
+  "多": {
+    "人部": [
+      {
+        "character": "侈",
+        "radical": "人部",
+        "phonetic": "多",
+        "group_id": "89.0",
+        "shuowen": "掩脅也",
+        "dazidian": "nan",
+        "combined": "掩脅也",
+        "x": 0.07900272,
+        "y": 0.04040732
+      }
+    ],
+    "言部": [
+      {
+        "character": "誃",
+        "radical": "言部",
+        "phonetic": "多",
+        "group_id": "89.0",
+        "shuowen": "離别也",
+        "dazidian": "nan",
+        "combined": "離别也",
+        "x": 0.079847045,
+        "y": 0.116015546
+      }
+    ]
+  },
+  "兆": {
+    "人部": [
+      {
+        "character": "佻",
+        "radical": "人部",
+        "phonetic": "兆",
+        "group_id": "91.0",
+        "shuowen": "愉也",
+        "dazidian": "nan",
+        "combined": "愉也",
+        "x": -0.017916042,
+        "y": 0.10082749
+      }
+    ],
+    "言部": [
+      {
+        "character": "誂",
+        "radical": "言部",
+        "phonetic": "兆",
+        "group_id": "91.0",
+        "shuowen": "相呼誘也",
+        "dazidian": "nan",
+        "combined": "相呼誘也",
+        "x": 0.04697626,
+        "y": 0.019140294
+      }
+    ]
+  },
+  "壽": {
+    "人部": [
+      {
+        "character": "儔",
+        "radical": "人部",
+        "phonetic": "壽",
+        "group_id": "92.0",
+        "shuowen": "翳也",
+        "dazidian": "nan",
+        "combined": "翳也",
+        "x": 0.016149698,
+        "y": 0.014398982
+      },
+      {
+        "character": "儔",
+        "radical": "人部",
+        "phonetic": "壽",
+        "group_id": "133.0",
+        "shuowen": "翳也",
+        "dazidian": "nan",
+        "combined": "翳也",
+        "x": 0.016149698,
+        "y": 0.014398982
+      }
+    ],
+    "言部": [
+      {
+        "character": "譸",
+        "radical": "言部",
+        "phonetic": "壽",
+        "group_id": "92.0",
+        "shuowen": "詶也",
+        "dazidian": "nan",
+        "combined": "詶也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      },
+      {
+        "character": "譸",
+        "radical": "言部",
+        "phonetic": "壽",
+        "group_id": "133.0",
+        "shuowen": "詶也",
+        "dazidian": "nan",
+        "combined": "詶也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "吳": {
+    "人部": [
+      {
+        "character": "俁",
+        "radical": "人部",
+        "phonetic": "吳",
+        "group_id": "94.0",
+        "shuowen": "大也",
+        "dazidian": "nan",
+        "combined": "大也",
+        "x": -0.08157007,
+        "y": -0.036106188
+      }
+    ],
+    "言部": [
+      {
+        "character": "誤",
+        "radical": "言部",
+        "phonetic": "吳",
+        "group_id": "94.0",
+        "shuowen": "謬也",
+        "dazidian": "nan",
+        "combined": "謬也",
+        "x": -0.004081451,
+        "y": 0.0145873
+      }
+    ]
+  },
+  "甬": {
+    "人部": [
+      {
+        "character": "俑",
+        "radical": "人部",
+        "phonetic": "甬",
+        "group_id": "95.0",
+        "shuowen": "痛也",
+        "dazidian": "nan",
+        "combined": "痛也",
+        "x": 0.10027884,
+        "y": 0.18301308
+      }
+    ],
+    "言部": [
+      {
+        "character": "誦",
+        "radical": "言部",
+        "phonetic": "甬",
+        "group_id": "95.0",
+        "shuowen": "諷也",
+        "dazidian": "nan",
+        "combined": "諷也",
+        "x": -0.008091601,
+        "y": 0.019395027
+      }
+    ]
+  },
+  "言": {
+    "人部": [
+      {
+        "character": "信",
+        "radical": "人部",
+        "phonetic": "言",
+        "group_id": "97.0",
+        "shuowen": "誠也",
+        "dazidian": "nan",
+        "combined": "誠也",
+        "x": -0.078486495,
+        "y": 0.06553213
+      }
+    ],
+    "言部": [
+      {
+        "character": "誩",
+        "radical": "言部",
+        "phonetic": "言",
+        "group_id": "97.0",
+        "shuowen": "竸言也",
+        "dazidian": "nan",
+        "combined": "竸言也",
+        "x": -0.1691848,
+        "y": -0.008572746
+      }
+    ]
+  },
+  "我": {
+    "人部": [
+      {
+        "character": "俄",
+        "radical": "人部",
+        "phonetic": "我",
+        "group_id": "98.0",
+        "shuowen": "頃也",
+        "dazidian": "nan",
+        "combined": "頃也",
+        "x": -0.023926346,
+        "y": -0.030806819
+      }
+    ],
+    "言部": [
+      {
+        "character": "誐",
+        "radical": "言部",
+        "phonetic": "我",
+        "group_id": "98.0",
+        "shuowen": "嘉善也",
+        "dazidian": "nan",
+        "combined": "嘉善也",
+        "x": 0.0019215267,
+        "y": 0.023407493
+      }
+    ]
+  },
+  "兒": {
+    "人部": [
+      {
+        "character": "倪",
+        "radical": "人部",
+        "phonetic": "兒",
+        "group_id": "99.0",
+        "shuowen": "俾也",
+        "dazidian": "nan",
+        "combined": "俾也",
+        "x": -0.051621582,
+        "y": 0.057094343
+      }
+    ],
+    "言部": [
+      {
+        "character": "誽",
+        "radical": "言部",
+        "phonetic": "兒",
+        "group_id": "99.0",
+        "shuowen": "言相誽司也",
+        "dazidian": "nan",
+        "combined": "言相誽司也",
+        "x": -0.00040650665,
+        "y": -0.026894184
+      }
+    ]
+  },
+  "周": {
+    "人部": [
+      {
+        "character": "倜",
+        "radical": "人部",
+        "phonetic": "周",
+        "group_id": "100.0",
+        "shuowen": "倜儻，不羈也",
+        "dazidian": "nan",
+        "combined": "倜儻，不羈也",
+        "x": 0.13577281,
+        "y": -0.23659708
+      }
+    ],
+    "言部": [
+      {
+        "character": "調",
+        "radical": "言部",
+        "phonetic": "周",
+        "group_id": "100.0",
+        "shuowen": "龢也",
+        "dazidian": "nan",
+        "combined": "龢也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "卒": {
+    "人部": [
+      {
+        "character": "倅",
+        "radical": "人部",
+        "phonetic": "卒",
+        "group_id": "101.0",
+        "shuowen": "副也",
+        "dazidian": "nan",
+        "combined": "副也",
+        "x": -0.041778196,
+        "y": 0.09921876
+      },
+      {
+        "character": "倅",
+        "radical": "人部",
+        "phonetic": "卒",
+        "group_id": "108.0",
+        "shuowen": "副也",
+        "dazidian": "nan",
+        "combined": "副也",
+        "x": -0.041778196,
+        "y": 0.09921876
+      }
+    ],
+    "言部": [
+      {
+        "character": "誶",
+        "radical": "言部",
+        "phonetic": "卒",
+        "group_id": "101.0",
+        "shuowen": "讓也",
+        "dazidian": "nan",
+        "combined": "讓也",
+        "x": -0.08043377,
+        "y": 0.116754055
+      },
+      {
+        "character": "誶",
+        "radical": "言部",
+        "phonetic": "卒",
+        "group_id": "108.0",
+        "shuowen": "讓也",
+        "dazidian": "nan",
+        "combined": "讓也",
+        "x": -0.08043377,
+        "y": 0.116754055
+      }
+    ]
+  },
+  "委": {
+    "人部": [
+      {
+        "character": "倭",
+        "radical": "人部",
+        "phonetic": "委",
+        "group_id": "102.0",
+        "shuowen": "須皃",
+        "dazidian": "nan",
+        "combined": "須皃",
+        "x": -0.047619555,
+        "y": -0.0840768
+      }
+    ],
+    "言部": [
+      {
+        "character": "諉",
+        "radical": "言部",
+        "phonetic": "委",
+        "group_id": "102.0",
+        "shuowen": "諈諉也",
+        "dazidian": "nan",
+        "combined": "諈諉也",
+        "x": -0.23328575,
+        "y": -0.058021825
+      }
+    ]
+  },
+  "京": {
+    "人部": [
+      {
+        "character": "倞",
+        "radical": "人部",
+        "phonetic": "京",
+        "group_id": "105.0",
+        "shuowen": "彊也",
+        "dazidian": "nan",
+        "combined": "彊也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "諒",
+        "radical": "言部",
+        "phonetic": "京",
+        "group_id": "105.0",
+        "shuowen": "信也",
+        "dazidian": "nan",
+        "combined": "信也",
+        "x": -0.051384598,
+        "y": 0.09953123
+      }
+    ]
+  },
+  "戔": {
+    "人部": [
+      {
+        "character": "俴",
+        "radical": "人部",
+        "phonetic": "戔",
+        "group_id": "107.0",
+        "shuowen": "淺也",
+        "dazidian": "nan",
+        "combined": "淺也",
+        "x": -0.005909877,
+        "y": -0.045048025
+      }
+    ],
+    "言部": [
+      {
+        "character": "諓",
+        "radical": "言部",
+        "phonetic": "戔",
+        "group_id": "107.0",
+        "shuowen": "善言也",
+        "dazidian": "nan",
+        "combined": "善言也",
+        "x": -0.015253156,
+        "y": -0.0035447998
+      }
+    ]
+  },
+  "扁": {
+    "人部": [
+      {
+        "character": "偏",
+        "radical": "人部",
+        "phonetic": "扁",
+        "group_id": "109.0",
+        "shuowen": "頗也",
+        "dazidian": "nan",
+        "combined": "頗也",
+        "x": -0.06484474,
+        "y": -0.005737887
+      }
+    ],
+    "言部": [
+      {
+        "character": "諞",
+        "radical": "言部",
+        "phonetic": "扁",
+        "group_id": "109.0",
+        "shuowen": "便巧言也",
+        "dazidian": "nan",
+        "combined": "便巧言也",
+        "x": 0.0456433,
+        "y": -0.060233187
+      }
+    ]
+  },
+  "思": {
+    "人部": [
+      {
+        "character": "偲",
+        "radical": "人部",
+        "phonetic": "思",
+        "group_id": "111.0",
+        "shuowen": "彊力也",
+        "dazidian": "nan",
+        "combined": "彊力也",
+        "x": -0.10929942,
+        "y": -0.07094882
+      }
+    ],
+    "言部": [
+      {
+        "character": "諰",
+        "radical": "言部",
+        "phonetic": "思",
+        "group_id": "111.0",
+        "shuowen": "思之意",
+        "dazidian": "nan",
+        "combined": "思之意",
+        "x": 0.11157642,
+        "y": 0.066887625
+      }
+    ]
+  },
+  "皆": {
+    "人部": [
+      {
+        "character": "偕",
+        "radical": "人部",
+        "phonetic": "皆",
+        "group_id": "112.0",
+        "shuowen": "彊也",
+        "dazidian": "nan",
+        "combined": "彊也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "諧",
+        "radical": "言部",
+        "phonetic": "皆",
+        "group_id": "112.0",
+        "shuowen": "詥也",
+        "dazidian": "nan",
+        "combined": "詥也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "兼": {
+    "人部": [
+      {
+        "character": "傔",
+        "radical": "人部",
+        "phonetic": "兼",
+        "group_id": "113.0",
+        "shuowen": "從也",
+        "dazidian": "nan",
+        "combined": "從也",
+        "x": -0.12474034,
+        "y": 0.080550455
+      }
+    ],
+    "言部": [
+      {
+        "character": "謙",
+        "radical": "言部",
+        "phonetic": "兼",
+        "group_id": "113.0",
+        "shuowen": "敬也",
+        "dazidian": "nan",
+        "combined": "敬也",
+        "x": -0.014979842,
+        "y": 0.115495495
+      }
+    ]
+  },
+  "黨": {
+    "人部": [
+      {
+        "character": "儻",
+        "radical": "人部",
+        "phonetic": "黨",
+        "group_id": "114.0",
+        "shuowen": "《說文新附》：“儻，倜儻也",
+        "dazidian": "nan",
+        "combined": "《說文新附》：“儻，倜儻也",
+        "x": 0.02594364,
+        "y": -0.23452823
+      },
+      {
+        "character": "儻",
+        "radical": "人部",
+        "phonetic": "黨",
+        "group_id": "138.0",
+        "shuowen": "倜儻也",
+        "dazidian": "nan",
+        "combined": "倜儻也",
+        "x": -0.03823541,
+        "y": -0.1619659
+      }
+    ],
+    "言部": [
+      {
+        "character": "讜",
+        "radical": "言部",
+        "phonetic": "黨",
+        "group_id": "114.0",
+        "shuowen": "直言也",
+        "dazidian": "nan",
+        "combined": "直言也",
+        "x": -0.04595382,
+        "y": 0.04891092
+      },
+      {
+        "character": "讜",
+        "radical": "言部",
+        "phonetic": "黨",
+        "group_id": "138.0",
+        "shuowen": "直言也",
+        "dazidian": "nan",
+        "combined": "直言也",
+        "x": -0.04595382,
+        "y": 0.04891092
+      }
+    ]
+  },
+  "旁": {
+    "人部": [
+      {
+        "character": "傍",
+        "radical": "人部",
+        "phonetic": "旁",
+        "group_id": "115.0",
+        "shuowen": "近也",
+        "dazidian": "nan",
+        "combined": "近也",
+        "x": -0.0777548,
+        "y": 0.09241074
+      }
+    ],
+    "言部": [
+      {
+        "character": "謗",
+        "radical": "言部",
+        "phonetic": "旁",
+        "group_id": "115.0",
+        "shuowen": "毁也",
+        "dazidian": "nan",
+        "combined": "毁也",
+        "x": 0.076979,
+        "y": 0.10648897
+      }
+    ]
+  },
+  "婁": {
+    "人部": [
+      {
+        "character": "僂",
+        "radical": "人部",
+        "phonetic": "婁",
+        "group_id": "116.0",
+        "shuowen": "厄也",
+        "dazidian": "nan",
+        "combined": "厄也",
+        "x": 0.016919216,
+        "y": 0.07963628
+      }
+    ],
+    "言部": [
+      {
+        "character": "謱",
+        "radical": "言部",
+        "phonetic": "婁",
+        "group_id": "116.0",
+        "shuowen": "謰謱也",
+        "dazidian": "nan",
+        "combined": "謰謱也",
+        "x": -0.23328575,
+        "y": -0.058021825
+      }
+    ]
+  },
+  "敖": {
+    "人部": [
+      {
+        "character": "傲",
+        "radical": "人部",
+        "phonetic": "敖",
+        "group_id": "119.0",
+        "shuowen": "倨也",
+        "dazidian": "nan",
+        "combined": "倨也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ],
+    "言部": [
+      {
+        "character": "謷",
+        "radical": "言部",
+        "phonetic": "敖",
+        "group_id": "119.0",
+        "shuowen": "不省人言也",
+        "dazidian": "nan",
+        "combined": "不省人言也",
+        "x": 0.048935372,
+        "y": -0.0014480042
+      }
+    ]
+  },
+  "堇": {
+    "人部": [
+      {
+        "character": "僅",
+        "radical": "人部",
+        "phonetic": "堇",
+        "group_id": "120.0",
+        "shuowen": "材能也",
+        "dazidian": "nan",
+        "combined": "材能也",
+        "x": -0.025610358,
+        "y": -0.047008578
+      }
+    ],
+    "言部": [
+      {
+        "character": "謹",
+        "radical": "言部",
+        "phonetic": "堇",
+        "group_id": "120.0",
+        "shuowen": "愼也",
+        "dazidian": "nan",
+        "combined": "愼也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "翏": {
+    "人部": [
+      {
+        "character": "僇",
+        "radical": "人部",
+        "phonetic": "翏",
+        "group_id": "121.0",
+        "shuowen": "癡行僇僇也",
+        "dazidian": "nan",
+        "combined": "癡行僇僇也",
+        "x": 0.04652048,
+        "y": -0.15291138
+      }
+    ],
+    "言部": [
+      {
+        "character": "謬",
+        "radical": "言部",
+        "phonetic": "翏",
+        "group_id": "121.0",
+        "shuowen": "狂者之妄言也",
+        "dazidian": "nan",
+        "combined": "狂者之妄言也",
+        "x": 0.16036461,
+        "y": -0.05840691
+      }
+    ]
+  },
+  "喜": {
+    "人部": [
+      {
+        "character": "僖",
+        "radical": "人部",
+        "phonetic": "喜",
+        "group_id": "123.0",
+        "shuowen": "樂也",
+        "dazidian": "nan",
+        "combined": "樂也",
+        "x": -0.02467133,
+        "y": 0.0889714
+      }
+    ],
+    "言部": [
+      {
+        "character": "譆",
+        "radical": "言部",
+        "phonetic": "喜",
+        "group_id": "123.0",
+        "shuowen": "痛也",
+        "dazidian": "nan",
+        "combined": "痛也",
+        "x": 0.10027884,
+        "y": 0.18301308
+      }
+    ]
+  },
+  "爲": {
+    "人部": [
+      {
+        "character": "僞",
+        "radical": "人部",
+        "phonetic": "爲",
+        "group_id": "125.0",
+        "shuowen": "詐也",
+        "dazidian": "nan",
+        "combined": "詐也",
+        "x": 0.009815393,
+        "y": -0.012390895
+      }
+    ],
+    "言部": [
+      {
+        "character": "譌",
+        "radical": "言部",
+        "phonetic": "爲",
+        "group_id": "125.0",
+        "shuowen": "譌言也",
+        "dazidian": "nan",
+        "combined": "譌言也",
+        "x": -0.1691848,
+        "y": -0.008572746
+      }
+    ]
+  },
+  "堯": {
+    "人部": [
+      {
+        "character": "僥",
+        "radical": "人部",
+        "phonetic": "堯",
+        "group_id": "126.0",
+        "shuowen": "南方有焦僥人長三尺，短之極也",
+        "dazidian": "nan",
+        "combined": "南方有焦僥人長三尺，短之極也",
+        "x": 0.23539662,
+        "y": -0.22271472
+      }
+    ],
+    "言部": [
+      {
+        "character": "譊",
+        "radical": "言部",
+        "phonetic": "堯",
+        "group_id": "126.0",
+        "shuowen": "恚嘑也",
+        "dazidian": "nan",
+        "combined": "恚嘑也",
+        "x": 0.14223135,
+        "y": -0.06489197
+      }
+    ]
+  },
+  "幾": {
+    "人部": [
+      {
+        "character": "僟",
+        "radical": "人部",
+        "phonetic": "幾",
+        "group_id": "127.0",
+        "shuowen": "精謹也",
+        "dazidian": "nan",
+        "combined": "精謹也",
+        "x": 0.019021632,
+        "y": -0.03618383
+      }
+    ],
+    "言部": [
+      {
+        "character": "譏",
+        "radical": "言部",
+        "phonetic": "幾",
+        "group_id": "127.0",
+        "shuowen": "誹也",
+        "dazidian": "nan",
+        "combined": "誹也",
+        "x": -0.001547391,
+        "y": 0.012145676
+      }
+    ]
+  },
+  "辟": {
+    "人部": [
+      {
+        "character": "僻",
+        "radical": "人部",
+        "phonetic": "辟",
+        "group_id": "131.0",
+        "shuowen": "辟也",
+        "dazidian": "nan",
+        "combined": "辟也",
+        "x": -0.019492097,
+        "y": 0.040505067
+      }
+    ],
+    "言部": [
+      {
+        "character": "譬",
+        "radical": "言部",
+        "phonetic": "辟",
+        "group_id": "131.0",
+        "shuowen": "諭也",
+        "dazidian": "nan",
+        "combined": "諭也",
+        "x": -0.079904296,
+        "y": 0.06685262
+      }
+    ]
+  },
+  "疑": {
+    "人部": [
+      {
+        "character": "儗",
+        "radical": "人部",
+        "phonetic": "疑",
+        "group_id": "134.0",
+        "shuowen": "僭也",
+        "dazidian": "nan",
+        "combined": "僭也",
+        "x": -0.0043022707,
+        "y": -0.0008326001
+      }
+    ],
+    "言部": [
+      {
+        "character": "譺",
+        "radical": "言部",
+        "phonetic": "疑",
+        "group_id": "134.0",
+        "shuowen": "騃也",
+        "dazidian": "nan",
+        "combined": "騃也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  },
+  "畾": {
+    "人部": [
+      {
+        "character": "儡",
+        "radical": "人部",
+        "phonetic": "畾",
+        "group_id": "135.0",
+        "shuowen": "相敗也",
+        "dazidian": "nan",
+        "combined": "相敗也",
+        "x": 0.06964084,
+        "y": 0.056988586
+      }
+    ],
+    "言部": [
+      {
+        "character": "讄",
+        "radical": "言部",
+        "phonetic": "畾",
+        "group_id": "135.0",
+        "shuowen": "禱也",
+        "dazidian": "nan",
+        "combined": "禱也",
+        "x": 0.0072231526,
+        "y": 0.11128099
+      }
+    ]
+  },
+  "賣": {
+    "人部": [
+      {
+        "character": "儥",
+        "radical": "人部",
+        "phonetic": "賣",
+        "group_id": "136.0",
+        "shuowen": "見也",
+        "dazidian": "nan",
+        "combined": "見也",
+        "x": -0.0507308,
+        "y": 0.049751498
+      }
+    ],
+    "言部": [
+      {
+        "character": "讀",
+        "radical": "言部",
+        "phonetic": "賣",
+        "group_id": "136.0",
+        "shuowen": "籒書也",
+        "dazidian": "nan",
+        "combined": "籒書也",
+        "x": -0.13739683,
+        "y": -0.043295447
+      }
+    ]
+  },
+  "毚": {
+    "人部": [
+      {
+        "character": "儳",
+        "radical": "人部",
+        "phonetic": "毚",
+        "group_id": "137.0",
+        "shuowen": "儳互、逗",
+        "dazidian": "nan",
+        "combined": "儳互、逗",
+        "x": 0.020979585,
+        "y": -0.049077857
+      }
+    ],
+    "言部": [
+      {
+        "character": "讒",
+        "radical": "言部",
+        "phonetic": "毚",
+        "group_id": "137.0",
+        "shuowen": "譖也",
+        "dazidian": "nan",
+        "combined": "譖也",
+        "x": -0.28469464,
+        "y": -0.04363792
+      }
+    ]
+  }
+}
